@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:16:38.003Z",
+  "generatedAt": "2026-09-27T04:11:22.094Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,15 +39,6 @@
     }
   ],
   "live": [
-    {
-      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 18:28:19 GMT",
-      "isLive": true
-    },
     {
       "title": "Gold Falls 5th Week Running as AI Tech Spending Surges",
       "sentiment": "bear",
