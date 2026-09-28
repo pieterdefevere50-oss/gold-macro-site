@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:15:58.636Z",
+  "generatedAt": "2026-09-28T16:13:41.798Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,21 +49,39 @@
       "isLive": true
     },
     {
-      "title": "Gold Falls Below $4,200 in Single-Day Drop of Over $100: Why Are Gold Prices Plunging?",
-      "sentiment": "bear",
+      "title": "Gold Sinks To 7-Week Low As Treasury Yields, Fed Hike Bets Rise — Hansen Warns Bullion’s ‘Resilience’ Faces Its ‘Toughest Test Yet’",
+      "sentiment": "bull",
       "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbjhCME5BWTQ4UEZQblI5Y3BCWk9RMTRsOHFMdTE5ZGxwdmQ1NlNqcXpPSVVjUGtUT1AxUjVFYXNkeXFXTDBiaTRvVGpkd242amNPTUVuRTlnU0V6b09HcTNDaWctNWE4dFlJQnc1RW9EMm9TRXR0OEpZdm9uWTUzUmxxR25IOU91eTBuZkM5QUR4WlluR3V0cW5tc0t4Tk1Jdm1IMHZNb1pJaEFyeXRfQTRIdzdmS3ZnNkVTamRRaw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 06:00:30 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNC1WT045SThNUWlteWVzRzNYaGZ2MkdXZDJqQTdqb1YyM3RGQmVBVE5GYUh1bXFfWEctUVJORVZ6MjlrakVUcFpXaXZ0UjVsQk52QUgyWTlWWVlDX09Oemx3LTkycWJCMC1TcVo3V25WUGEzaXhKbTkyNjRWMHlUTnVUNVJwTFRUS0s4eDNIQVVSY0g0cFE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:41:44 GMT",
       "isLive": true
     },
     {
-      "title": "Gold and Silver Lose $1 Trillion in a Day as Fed Rate Hike Bets Rise",
+      "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
       "sentiment": "bear",
       "impact": 2,
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzljczVoVFkxQVpzazE0STVWdG94QlNvS3ZsREpWUm9xZTZCNXl1cnV0c2hrSms2THJOdGVuZGI0UGxrZDdvb3U3V3Rocm5lemx5Zklod1ZFSEhBSnpWekM0QVN2dmtoaU5BcXR2a1N4Qkc0TnYwWTdtN3QzUkZTeHBUTEloN0tCQUVQUlMyZ2x3QldNLWs0UEZDTkFOdw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 07:53:49 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 01:41:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold and Silver Sink as Real US Bond Yields Hit Near-Record Highs",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOV9jd1V3dW9NQ004Ql9mMDhKTVVDREdKMzQyMklmZUt0eVZPM2prYjZCRUZvejdSc1ZuWVlVcDFWMVB4ZlJUSjRpbmE0bm9SNm95SUxtVGVYdTBROXhwcGZQVHFfX0lJUjU3SFBFeUJuN2VBTG41T0pVOGFkblJHOE8wMDBaTlo3MF9YVktzNl9qMnFqN2Z1N1BB?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 14:50:27 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Today: Gold Falls 3.08% on September 28, 2026",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnVKMmMxQXNZZF81TG1FdkxaTjk3N1dIWV9lNEVGTWd0Q196bUJyaUNrWW1fUTR6VjFidnVpYVNRaWJLWFlZN0pHWVg1QS1YMGNxMThMVkN5bWFRSmRVM2o1VmMwV3czWDdOUUljM2M5bHEwQUhNb1lVbFNkQklTZ1oxTW5aaE5JZUhlc0hjTTROeDJObHpJQUg3UFctY0dKNUtud29jRG8?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 12:25:08 GMT",
       "isLive": true
     }
   ]
