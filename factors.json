@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:17:46.753Z",
+  "generatedAt": "2026-09-28T04:13:08.905Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,30 @@
   ],
   "live": [
     {
+      "title": "Gold drops more than 1% on US rate-hike bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 01:41:00 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold Price Forecast: 5% Yields and Strong Dollar Cap Rebound Ahead of PCE",
       "sentiment": "bear",
       "impact": 2,
       "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWdvR1hhS3hySWsxdjVPVlExdVBsTHlDR3VvX1k3Z2JUdkJzMUFsN3JkQmhQMmdBQ0Q5TFVTdGpiUzRDOU1qS1FtUVlYdHp6eFB5ZFE2R1BJQ0xtaTh5WDZEcjhRR3NkaGExaDgtVEJ2c1F0d0gyTzZFdng1YmF3RHVQZEtJY0hTbmJPSGZpSHVVMEpWd2RuSVY0QTd1ZllnZXlad0RQd2Q4Rm1fSlhOMGVra1M2Y2t0U3R1MGtzODRoejhVckZILUxB?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 19:37:47 GMT",
+      "pubDate": "Mon, 28 Sep 2026 01:34:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold tumbles to near $4,200 as hawkish Fed signals and stronger US Dollar pressure bullion",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc05zTkhKWFAxMHJycjhERzFKajRyZ0lmZmdJMnpzb0g3RFlXV2ltbEdwM1luSUd5bWJacXMyQWs2UnVqekxGbmJxYU0zYVlvdjFla2dlbFEzam5tckJpOGZjOG9WQmYwZDVsMnZjWVFOb0ZRVW9ucGJOTGFFdk41R19DdG1EUGZnZmVrYkJsNmFCOVFnNWVoWUFJWmgxeTg2Q3I5bDRKMGVuY0cwcnBjaFRka0l5eTN2M2s5c25MVnJoa1VKU3h2aDVDazc?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 01:48:09 GMT",
       "isLive": true
     }
   ]
