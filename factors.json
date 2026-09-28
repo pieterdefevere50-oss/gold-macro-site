@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T08:14:44.200Z",
+  "generatedAt": "2026-09-28T12:15:58.636Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,12 @@
   ],
   "live": [
     {
-      "title": "Gold drops more than 2% on US rate-hike bets",
+      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 01:41:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
       "isLive": true
     },
     {
@@ -58,21 +58,12 @@
       "isLive": true
     },
     {
-      "title": "Gold Price Forecast: 5% Yields and Strong Dollar Cap Rebound Ahead of PCE",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWdvR1hhS3hySWsxdjVPVlExdVBsTHlDR3VvX1k3Z2JUdkJzMUFsN3JkQmhQMmdBQ0Q5TFVTdGpiUzRDOU1qS1FtUVlYdHp6eFB5ZFE2R1BJQ0xtaTh5WDZEcjhRR3NkaGExaDgtVEJ2c1F0d0gyTzZFdng1YmF3RHVQZEtJY0hTbmJPSGZpSHVVMEpWd2RuSVY0QTd1ZllnZXlad0RQd2Q4Rm1fSlhOMGVra1M2Y2t0U3R1MGtzODRoejhVckZILUxB?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 01:34:00 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold and Silver Lose $1 Trillion in a Day as Fed Rate Hike Bets Rise",
       "sentiment": "bear",
       "impact": 2,
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nZ3NYT3hFREhRd3BtSml1YnRpMzdPWVZyZkJfeW5lNnRXQ1hjUmdBaGdpd2phYXF3WmdVaTM3cFJlM2kwR3JBQUVObHRDT2pDVUQ4cmRNRHJxb3psSHgxYjdWSnZfQQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 07:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzljczVoVFkxQVpzazE0STVWdG94QlNvS3ZsREpWUm9xZTZCNXl1cnV0c2hrSms2THJOdGVuZGI0UGxrZDdvb3U3V3Rocm5lemx5Zklod1ZFSEhBSnpWekM0QVN2dmtoaU5BcXR2a1N4Qkc0TnYwWTdtN3QzUkZTeHBUTEloN0tCQUVQUlMyZ2x3QldNLWs0UEZDTkFOdw?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 07:53:49 GMT",
       "isLive": true
     }
   ]
