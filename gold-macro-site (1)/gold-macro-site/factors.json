@@ -1,0 +1,88 @@
+{
+  "generatedAt": "2026-09-28T16:13:41.798Z",
+  "evergreen": [
+    {
+      "title": "Fed Rate Path / Policy Stance",
+      "sentiment": "neutral",
+      "impact": 5,
+      "text": "The single largest swing factor for gold. Rate-cut expectations lower the opportunity cost of holding non-yielding gold (bullish); hawkish repricing raises it (bearish). Check the live items below for the latest concrete signal."
+    },
+    {
+      "title": "US Dollar Index (DXY) Trend",
+      "sentiment": "neutral",
+      "impact": 5,
+      "text": "Gold is priced in USD, so dollar strength and gold tend to move inversely. A falling DXY is structurally bullish for XAU/USD; a rising DXY is structurally bearish."
+    },
+    {
+      "title": "Central Bank Gold Buying (Structural Trend)",
+      "sentiment": "bull",
+      "impact": 4,
+      "text": "Central banks globally have been net buyers of gold for several consecutive years, diversifying reserves away from the dollar. This is a slow-moving structural tailwind rather than a single event — specific recent purchases appear as live items below."
+    },
+    {
+      "title": "US Real Yields (10-Year Treasury)",
+      "sentiment": "neutral",
+      "impact": 3,
+      "text": "Falling real yields lower the opportunity cost of holding gold versus bonds (bullish); rising real yields do the opposite (bearish)."
+    },
+    {
+      "title": "US Fiscal Deficit / Debt Trajectory",
+      "sentiment": "bull",
+      "impact": 3,
+      "text": "Elevated US debt and deficit levels support structural demand for gold as a reserve-diversification and currency-debasement hedge."
+    },
+    {
+      "title": "Geopolitical Risk Premium",
+      "sentiment": "neutral",
+      "impact": 3,
+      "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
+    }
+  ],
+  "live": [
+    {
+      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Sinks To 7-Week Low As Treasury Yields, Fed Hike Bets Rise — Hansen Warns Bullion’s ‘Resilience’ Faces Its ‘Toughest Test Yet’",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNC1WT045SThNUWlteWVzRzNYaGZ2MkdXZDJqQTdqb1YyM3RGQmVBVE5GYUh1bXFfWEctUVJORVZ6MjlrakVUcFpXaXZ0UjVsQk52QUgyWTlWWVlDX09Oemx3LTkycWJCMC1TcVo3V25WUGEzaXhKbTkyNjRWMHlUTnVUNVJwTFRUS0s4eDNIQVVSY0g0cFE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:41:44 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 01:41:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold and Silver Sink as Real US Bond Yields Hit Near-Record Highs",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOV9jd1V3dW9NQ004Ql9mMDhKTVVDREdKMzQyMklmZUt0eVZPM2prYjZCRUZvejdSc1ZuWVlVcDFWMVB4ZlJUSjRpbmE0bm9SNm95SUxtVGVYdTBROXhwcGZQVHFfX0lJUjU3SFBFeUJuN2VBTG41T0pVOGFkblJHOE8wMDBaTlo3MF9YVktzNl9qMnFqN2Z1N1BB?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 14:50:27 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Today: Gold Falls 3.08% on September 28, 2026",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbnVKMmMxQXNZZF81TG1FdkxaTjk3N1dIWV9lNEVGTWd0Q196bUJyaUNrWW1fUTR6VjFidnVpYVNRaWJLWFlZN0pHWVg1QS1YMGNxMThMVkN5bWFRSmRVM2o1VmMwV3czWDdOUUljM2M5bHEwQUhNb1lVbFNkQklTZ1oxTW5aaE5JZUhlc0hjTTROeDJObHpJQUg3UFctY0dKNUtud29jRG8?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 12:25:08 GMT",
+      "isLive": true
+    }
+  ]
+}
