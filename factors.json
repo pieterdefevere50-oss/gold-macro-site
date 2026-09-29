@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:16:55.084Z",
+  "generatedAt": "2026-09-29T04:12:22.244Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,15 +49,6 @@
       "isLive": true
     },
     {
-      "title": "Gold Sinks To 7-Week Low As Treasury Yields, Fed Hike Bets Rise — Hansen Warns Bullion’s ‘Resilience’ Faces Its ‘Toughest Test Yet’",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNC1WT045SThNUWlteWVzRzNYaGZ2MkdXZDJqQTdqb1YyM3RGQmVBVE5GYUh1bXFfWEctUVJORVZ6MjlrakVUcFpXaXZ0UjVsQk52QUgyWTlWWVlDX09Oemx3LTkycWJCMC1TcVo3V25WUGEzaXhKbTkyNjRWMHlUTnVUNVJwTFRUS0s4eDNIQVVSY0g0cFE?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:41:44 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold falls amid rising oil prices and higher US dollar",
       "sentiment": "bear",
       "impact": 2,
@@ -73,6 +64,15 @@
       "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOV9jd1V3dW9NQ004Ql9mMDhKTVVDREdKMzQyMklmZUt0eVZPM2prYjZCRUZvejdSc1ZuWVlVcDFWMVB4ZlJUSjRpbmE0bm9SNm95SUxtVGVYdTBROXhwcGZQVHFfX0lJUjU3SFBFeUJuN2VBTG41T0pVOGFkblJHOE8wMDBaTlo3MF9YVktzNl9qMnFqN2Z1N1BB?oc=5",
       "pubDate": "Mon, 28 Sep 2026 14:50:27 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Sinks To 7-Week Low As Treasury Yields, Fed Hike Bets Rise — Hansen Warns Bullion’s ‘Resilience’ Faces Its ‘Toughest Test Yet’",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNC1WT045SThNUWlteWVzRzNYaGZ2MkdXZDJqQTdqb1YyM3RGQmVBVE5GYUh1bXFfWEctUVJORVZ6MjlrakVUcFpXaXZ0UjVsQk52QUgyWTlWWVlDX09Oemx3LTkycWJCMC1TcVo3V25WUGEzaXhKbTkyNjRWMHlUTnVUNVJwTFRUS0s4eDNIQVVSY0g0cFE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:41:44 GMT",
       "isLive": true
     },
     {
