@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:17:31.518Z",
+  "generatedAt": "2026-09-30T04:12:56.036Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -45,16 +45,7 @@
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 00:04:42 GMT",
+      "pubDate": "Mon, 28 Sep 2026 11:34:30 GMT",
       "isLive": true
     },
     {
@@ -64,6 +55,15 @@
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
       "pubDate": "Mon, 28 Sep 2026 15:53:50 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:58:00 GMT",
       "isLive": true
     }
   ]
