@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:14:16.261Z",
+  "generatedAt": "2026-09-30T12:16:24.963Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,15 +39,6 @@
     }
   ],
   "live": [
-    {
-      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
-      "isLive": true
-    },
     {
       "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
       "sentiment": "bear",
