@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:17:02.889Z",
+  "generatedAt": "2026-10-01T16:12:25.135Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,15 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold price rockets to session highs as US economy rises 2.2% in Q2, PCE inflation rises 0.2% in August",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaDhNaGdLUHVaVmhwUjUzUVA5UTRibDYwbEVEU0wtc3N2NzlObTNzYlZlZVRFSXBQZDliNTZvMU9ZNjRoSWp5LWswY0hKU05tNURON0R1VnZRQmtzR29wdFAzRmhocHE4OGlJcFk3WFVhcFliRVphV3d0bG1YaDh3SUhiWEhiMnAtUUdvX2RyU09uazJPWjMyaXBiRmtqR3otaF9xQ09STTY2STh2NXBFeEJmamlOOGMtNG1TejRB?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:16:35 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
