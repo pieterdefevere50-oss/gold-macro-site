@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:15:22.652Z",
+  "generatedAt": "2026-10-02T16:11:55.104Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,6 +40,15 @@
   ],
   "live": [
     {
+      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 12:09:09 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support",
       "sentiment": "bull",
       "impact": 2,
@@ -49,12 +58,12 @@
       "isLive": true
     },
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Some Ground Despite Strong Dollar",
-      "sentiment": "bear",
+      "title": "Gold Has Lost Its Luster but Here’s How It Can Shine to Record Highs Again",
+      "sentiment": "bull",
       "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHV3Vm5jRjFPWXZaMW4wUzFfS1BpQUl2VzNJMlFjc2lFZ1U3dlVGcGhoUDFHV2hqaWpzZ3V1Z3hqdHNyZkNraEZEQmFTVUZKbTdZaFVRcHR0em5HaXZvVE1XSk5XRTJhRmtJd0QwamhUWFRpd0VQRWdCYXFmUmJjZm1jUHBjQ0U5aUtqeTNpdlVUeGxic0REVTB2VjljeWRHaXZqTWs3akdTWnFTRmpkZmVXQWplX3RqcWNOckFYWElyejJJSmd5Z042ZUpwZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 01:19:00 GMT",
+      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbC05cTQwS0g3aXhBU2pFWUdCQjNZTG9PdldDc1pTLU54aTgyNm4wcHlYcWtfZ05Xd2lVUDhPcktiVnZXQXM0d25uTzVmeUxGMWtKejhYT3BqbzZtTV9MOEZHU1VXdXhZcnpDZS1DT0pHSTJVUXNXSFNIZm5Idk85dDI1aw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 14:35:00 GMT",
       "isLive": true
     }
   ]
