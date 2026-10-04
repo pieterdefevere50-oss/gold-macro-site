@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:26:46.767Z",
+  "generatedAt": "2026-10-04T20:57:37.919Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,15 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Soft labor data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2lrZXphNHNLcVpyMGpLSHByb1JQUVI4NkpkVzJaR0poSjU5SlVtN2hvdlpGSk1UTm9yRFFfYjhoclNoeS1mdzlfOUxjbnN0Znh5WUFIREItQUlxVENPNE4tdGVhNXVtcVo5Q3ZjX1ZvQ2pJOXhkZ3BHNnVGU0gxQ19YLUdKWmNkSkRLVWQ3UXlPUVEyZmUxd21SeHd4QnN6RjNuYg?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 17:33:47 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
