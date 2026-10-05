@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:16:52.064Z",
+  "generatedAt": "2026-10-05T16:12:58.946Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,42 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 06:42:58 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold prices steady after weekly slide as weak jobs data ease Fed hike bets",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Weak labor data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjk4V3U5TlBLTXB3enVON05NMlhhQ3R1RkdyT2RUSUxVaVRwMG14SE9QZlNnUERRd0d6U1JrU18wbGw0VGFGMkF5UHdUVTNLTGpGRlBqNF9TbUtROGtjbzB1LUtBT3o1U1Nvc1M2NkNwNGRyeXV0Z0RseTJDSHVBOXhTNzMxaFFrNlRseEExRmFmdUN4NjZDMXBGZVhBNUdEMFltaFVzTHVWZFpNazREQTFNOWRkSUxxdncxR0stVFVlNi0ybGhIaA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 10:06:30 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD Holds $4,123 as Weak Jobs Data Cuts Fed Hike Odds to 18%",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Weak labor data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFlMTHRJZC1TSWtxVWk4VnFmM0F3RmVHMEp5N1ZCa2tnOWtLNVhzck5wNm80WlBoYUFhdUpVVjg1QUZHZ1pQcGQyUEE3MzdpRGR6eVJrSkhWRjlJX3BhYktNamgtU3JBZWZTWUlnQjh1MlBVU3dCY0JCcG9JSnFpazVLejV4ZThVclp0b01ubWItWmFyZXJVR0lHaEJJNFJGTmxr?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 11:18:11 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Prices Regain Upward Momentum, Poised to Return to Bull Market: Which Gold Stocks Are Worth Watching?",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXdlVGN2dTN5cGFQV2ZKX3RCQ0NISnZ3LUhCZVR1cFhiZk5UbTFuc2k0X1VrWWl2NG55ZVVHY2xSU0loWV9NdmR0VlpiVXJFRTVfZS1DeWdfZzZRRnFqWjVPb3lZMmJSR3dWSjMxNjV2bTZZc01hSFZsOTRad1FBZDBZbngyakRKYl9RcnlIc09lTloyV1djRFRlSnZtX1dCS0RMRUdISW5MT1VDNWJuRmQydHQxd3lZV203TmhWYlBNaEI4Nkx3?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:01:34 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
