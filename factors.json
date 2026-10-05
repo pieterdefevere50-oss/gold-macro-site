@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:14:52.347Z",
+  "generatedAt": "2026-10-05T08:15:55.289Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,42 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold Prices Regain Upward Momentum, Poised to Return to Bull Market: Which Gold Stocks Are Worth Watching?",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXdlVGN2dTN5cGFQV2ZKX3RCQ0NISnZ3LUhCZVR1cFhiZk5UbTFuc2k0X1VrWWl2NG55ZVVHY2xSU0loWV9NdmR0VlpiVXJFRTVfZS1DeWdfZzZRRnFqWjVPb3lZMmJSR3dWSjMxNjV2bTZZc01hSFZsOTRad1FBZDBZbngyakRKYl9RcnlIc09lTloyV1djRFRlSnZtX1dCS0RMRUdISW5MT1VDNWJuRmQydHQxd3lZV203TmhWYlBNaEI4Nkx3?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 02:05:10 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold edges higher after weekly slide as weak jobs data ease Fed hike bets",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Weak labor data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjk4V3U5TlBLTXB3enVON05NMlhhQ3R1RkdyT2RUSUxVaVRwMG14SE9QZlNnUERRd0d6U1JrU18wbGw0VGFGMkF5UHdUVTNLTGpGRlBqNF9TbUtROGtjbzB1LUtBT3o1U1Nvc1M2NkNwNGRyeXV0Z0RseTJDSHVBOXhTNzMxaFFrNlRseEExRmFmdUN4NjZDMXBGZVhBNUdEMFltaFVzTHVWZFpNazREQTFNOWRkSUxxdncxR0stVFVlNi0ybGhIaA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 01:20:01 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Slumps 26% From Peak, Yet Retail Investors and Central Banks Keep Buying — Divergent Strategies Emerge",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes a sharp downward move in gold's price.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLWU1XV0VZQnl5Q3hkUUpIeWZ6QUVYazhpZC1uaW1sYzFyOW5BLWphWWhjUFJ1UnRjZnlKNlEzOTluMFY4X0dmdUphS2lMTWJYQTJ4SmZWSUgwdTdIODUwSTFySWZTNFVKeVYwNFVjVVFhZTl6Nnc?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 03:31:24 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold holds gains above $4,150 as traders trim bets on Fed rate hikes",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1ZGN2FremJpRHhDUEM4LTlnNEdNa21XUmViNXVabjZwV0lVd3k3SmhKUG1PNnVzY3JBeWc5VXJBbjNCNnZ2TnBnYURLYmxwS3VaT0ZBcGFET3V1cTFUWmthSVkxOFdXUk42bXA0dllOcnJBWUgtT1g4N00xVjFZV1JBMmt2dDdrZmJtVWhJS3dUaTNzckc2VWZab0QwMVBGdlU0NVMtWDlXaWhZS3pJ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 02:13:30 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
