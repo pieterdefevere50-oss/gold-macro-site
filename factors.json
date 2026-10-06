@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:12:58.946Z",
+  "generatedAt": "2026-10-06T00:18:46.961Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,5 +38,24 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": []
+  "live": [
+    {
+      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 06:42:58 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHdFdmdGS3RROFktSzNxckY4d1dLM2thRWZpVUxSeVpPNzNTcjhSRUFNOG9WZzdzYVVzcFkxRnJiRFIxbElDRlBFcHFVMmVIdDVfSHlUNFVkRnJsVUhoMlB5SDVCcEVfM3BjLU5ManVLQS01a242bm5qcWdBY0NfOC1tXzcxbWV3OGQweWxWVjJPNVVldENraUJaclhXdzBQRWluZTF2eWNYdWdLUEx5UGV1d0pUZw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 12:45:24 GMT",
+      "isLive": true
+    }
+  ]
 }
