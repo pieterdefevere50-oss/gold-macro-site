@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:18:46.961Z",
+  "generatedAt": "2026-10-06T04:13:25.370Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,12 +49,12 @@
       "isLive": true
     },
     {
-      "title": "Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support",
-      "sentiment": "bull",
+      "title": "Gold little changed as fading likelihood of U.S. rate hike offset by rising dollar and yields",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHdFdmdGS3RROFktSzNxckY4d1dLM2thRWZpVUxSeVpPNzNTcjhSRUFNOG9WZzdzYVVzcFkxRnJiRFIxbElDRlBFcHFVMmVIdDVfSHlUNFVkRnJsVUhoMlB5SDVCcEVfM3BjLU5ManVLQS01a242bm5qcWdBY0NfOC1tXzcxbWV3OGQweWxWVjJPNVVldENraUJaclhXdzBQRWluZTF2eWNYdWdLUEx5UGV1d0pUZw?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 12:45:24 GMT",
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTZLazVpN2M3ZTlxd0ZYczhYWnFOcUhxUTJQOEU2Z1drTVFMUkt4ampOQ21NRGFSeHM3LW5QbG1abGNSeGlMV2oxbXJCeVZ3OHJVdktLckxfTm9QSU85TkM5T2pNTUlqcnRTZld6QkVKMXlMemhWbFd3TGF3RXlpdUJ2RDJtVDNUSmY1VGdpWG5PTkRya09idUdlUjZIM2twSTVYaE16bGdzUGl3blg0ZHNVZmM1MTdKNW4wZEpIM1YzNzZRbEJ5Tg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 21:45:36 GMT",
       "isLive": true
     }
   ]
