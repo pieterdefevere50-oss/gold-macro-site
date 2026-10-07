@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:17:23.458Z",
+  "generatedAt": "2026-10-07T16:15:28.861Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,12 @@
   ],
   "live": [
     {
-      "title": "Gold (XAUUSD) & Silver Price Forecast: China Adds Gold, Fed Minutes Loom, Will Gold Clear $4,190?",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Reflects an institution adding to its gold holdings, reinforcing demand.",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQREptUjFLeUZMZGIyclZIcTlqUzAzcVhRT2hoU0Z4RzRZRkNWV1FUcTdtUDE3ZE8wTnl1ZkI5QWktd2lKRW00TkxIWGRnUDd5X1NQbUdLN1JGUUhNREQxVFRHbWI3a2N4djFfdlBHS0w0ZjNnT1ZMR05wdnpFNzI4dkNaWEN6R0dlZkY2WkkwbjNwM0picExzLTVDWXZCN0pybjRyZnJhb3F1b1FNUHhvRVhaOXB3cUxIQ19WYWc3VHBSQ2F6M0Z4a1FkbUxDYlNkemI5bA?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 05:10:50 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Falls as Stronger Dollar Puts Focus on Fed Rate Outlook",
+      "title": "Gold falls as investors await Fed September meeting minutes",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG5jMXRvOEd4X3BIeTVtb2tkazdwR21SZnFxaTRkQndzWU1wZHlmMWREY3ViZXpyYl9LTUtTRFRsbHZ3WWVnU3U0TU9FZmlrc3VWa3Y0blE2SUdQREZEampWZm1rU1kzcF94ZXZWTTVNRWtzVWRjdWZVZEpnWkFTREE1SVFuQW8?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 09:41:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbEJDX19FNkRwSEhleTdNVTdHV2J5cEhPdjBLb0k5VTNydklSdWVhdlJ6Tm90UUZsX0hLUk9fZE90M2VzZTFvQUotQUd6Zl9pd3dSa0ZIMzRhcGRWTDdYZUdqV1d6RU4xUmJpZGNKTQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 11:51:47 GMT",
       "isLive": true
     }
   ]
