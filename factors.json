@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:14:15.320Z",
+  "generatedAt": "2026-10-07T12:17:23.458Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,15 +40,6 @@
   ],
   "live": [
     {
-      "title": "RBI Repo Rate Hike: Will Gold Prices Fall After Rates Rise To 5.50%? What Investors Should Know",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRFNEbEdRLWoweUdCM2w5VHI3bVBfXzhmQlU1aU1FSXh0YlhTbkJvUFdVdUUzU3M3Y2JiNWpmVlZxRjNsemx3Z1Z0V2tKN0dXQjVYRlBYdWxxbDU1WTh1b05kdXpqSFFWZzRad3k1X3JCcXJSS1VXRmJYZ1J5R2o5a2ZxSmpmMVBabFZhRFpmR0lmOTdKVEMzQUwxREVCbHc5WXo5cDNZS0FXeFVDdE0tOHhWSGdyNlN1SkhoUzcyN1UxMjNDeHRIcVRTaEJqT2p5MHMwNGozdS1pU0NtS19nYTV2ZWlyTDdxRHVydHJWZ2Q1a0gyeWVtd202QjB5V2R2c1BiU09MZUd3MHlmQWxJeA?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 05:40:35 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold (XAUUSD) & Silver Price Forecast: China Adds Gold, Fed Minutes Loom, Will Gold Clear $4,190?",
       "sentiment": "bull",
       "impact": 2,
@@ -58,12 +49,12 @@
       "isLive": true
     },
     {
-      "title": "Gold struggles below $4,150 as USD bulls look to FOMC Minutes for rate hike cues",
+      "title": "Gold Falls as Stronger Dollar Puts Focus on Fed Rate Outlook",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLTk0MVBncnFGeVpiZ2o4TGlTQ3hNUnk4clRsdjVBdG42RlFrTUVvREJ3QUF0WjN4TjNqT2FNQ2IxMVZxVFhYM0ZrcW1EZjVqTTd6djQ5RTJvZTZ3anhvRFQxUjhpbXdCdGhBRTdENk5qMU9hM1JxMmtFWGlHRldtb2dUdElwQ1M1TnlnbFVSSWpzbnFzNHdXQW82dExfX0Zva2hJT0o4UllMR3djVThQMXEtc2w0M3pOenB5eFg2b2l5cElJ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 07:03:56 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG5jMXRvOEd4X3BIeTVtb2tkazdwR21SZnFxaTRkQndzWU1wZHlmMWREY3ViZXpyYl9LTUtTRFRsbHZ3WWVnU3U0TU9FZmlrc3VWa3Y0blE2SUdQREZEampWZm1rU1kzcF94ZXZWTTVNRWtzVWRjdWZVZEpnWkFTREE1SVFuQW8?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 09:41:27 GMT",
       "isLive": true
     }
   ]
