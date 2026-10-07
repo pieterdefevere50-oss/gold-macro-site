@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:15:28.861Z",
+  "generatedAt": "2026-10-07T20:12:50.270Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,12 @@
   ],
   "live": [
     {
-      "title": "Gold falls as investors await Fed September meeting minutes",
+      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbEJDX19FNkRwSEhleTdNVTdHV2J5cEhPdjBLb0k5VTNydklSdWVhdlJ6Tm90UUZsX0hLUk9fZE90M2VzZTFvQUotQUd6Zl9pd3dSa0ZIMzRhcGRWTDdYZUdqV1d6RU4xUmJpZGNKTQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:51:47 GMT",
+      "text": "Rising yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2NaLTd5SDJmeVdSQUJ1VU1aQjBQeG9jVDNPVjNFdXUwWm1UeWt3bjQyRDc3WF85NGRnTWZEZnBsd0l0X2ZROTRqQWpORy03LXV4R01ZMVNwaWlxa09oQlJkTWVVbzl6SVVYaEFzaW1oMFJ0dmNCTjJEcUxSRHRhZ05JTkZKRmVmVXZLX0RCbzRVaWZXZGNQWlplVUNuWnpmN1Y1a0Y3SXdRVE1hR1NMVA?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:10:56 GMT",
       "isLive": true
     }
   ]
