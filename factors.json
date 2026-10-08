@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T04:13:17.484Z",
+  "generatedAt": "2026-10-08T08:14:10.250Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,12 @@
   ],
   "live": [
     {
-      "title": "Gold (XAU/USD) Price Forecast: Bearish Trend Deepens Towards Key Support Zone",
-      "sentiment": "bull",
+      "title": "Gold Price Forecast: Gold Drops Below $4,100, Could Test $4,000 in Short Term",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTRXYTBwaUREYnppTmRIeVVEMXMwLWxSLUtDOFByeEprTDFHNGh6am9MSDN3UWNGV3ZkNDJqWEdvaE1qUG9McV80TVROSl9RM3VXQ1JIb2czclRQeVFyRUEzVVdTUzFFOHMxVWJJVGtFQkh5dnpqOGVqVnFCRFZSTGhZQ0ltMlNVOExDYmpkVzBTQnlEbFE3cEt0aFZEVExiVDlLLWNtbVVjVVFRQnlZUE1iU0g5SWlBU29lNzBHbl90eEU?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 03:49:18 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHpmM1htbG5RWnZpcHUzRzM4Nm0wOGVzNkdfdUxYbXo1RUR5NDZ2S1dFMTVQUDRYb2lENGZ2REQ4VGxOdk5OLWttZkV6dTVtdkw5S0REdGx1OWR6ek9CQ0xSc01XU21sTHl5U0FaY3hhaTF2dUZIbzhHTGltdWdRY1g2TTN2SE02dTA5dHdVSjNqRWoyWm83Nmw5VEdfejYtdnkyLXlhYkpjNlN6a2xhWVJfUlBEOGlSdUdtMw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 06:49:40 GMT",
       "isLive": true
     },
     {
@@ -58,12 +58,12 @@
       "isLive": true
     },
     {
-      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
-      "sentiment": "bear",
+      "title": "Gold (XAU/USD) Price Forecast: Bearish Trend Deepens Towards Key Support Zone",
+      "sentiment": "bull",
       "impact": 2,
-      "text": "Rising yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2NaLTd5SDJmeVdSQUJ1VU1aQjBQeG9jVDNPVjNFdXUwWm1UeWt3bjQyRDc3WF85NGRnTWZEZnBsd0l0X2ZROTRqQWpORy03LXV4R01ZMVNwaWlxa09oQlJkTWVVbzl6SVVYaEFzaW1oMFJ0dmNCTjJEcUxSRHRhZ05JTkZKRmVmVXZLX0RCbzRVaWZXZGNQWlplVUNuWnpmN1Y1a0Y3SXdRVE1hR1NMVA?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 16:10:56 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTRXYTBwaUREYnppTmRIeVVEMXMwLWxSLUtDOFByeEprTDFHNGh6am9MSDN3UWNGV3ZkNDJqWEdvaE1qUG9McV80TVROSl9RM3VXQ1JIb2czclRQeVFyRUEzVVdTUzFFOHMxVWJJVGtFQkh5dnpqOGVqVnFCRFZSTGhZQ0ltMlNVOExDYmpkVzBTQnlEbFE3cEt0aFZEVExiVDlLLWNtbVVjVVFRQnlZUE1iU0g5SWlBU29lNzBHbl90eEU?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 03:59:00 GMT",
       "isLive": true
     }
   ]
