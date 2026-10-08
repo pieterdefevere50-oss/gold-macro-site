@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:12:50.270Z",
+  "generatedAt": "2026-10-08T00:17:43.864Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,6 +39,24 @@
     }
   ],
   "live": [
+    {
+      "title": "Gold slides to two-month low as robust dollar, yields add pressure",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAU/USD) Price Forecast: Bearish Trend Deepens Towards Key Support Zone",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTRXYTBwaUREYnppTmRIeVVEMXMwLWxSLUtDOFByeEprTDFHNGh6am9MSDN3UWNGV3ZkNDJqWEdvaE1qUG9McV80TVROSl9RM3VXQ1JIb2czclRQeVFyRUEzVVdTUzFFOHMxVWJJVGtFQkh5dnpqOGVqVnFCRFZSTGhZQ0ltMlNVOExDYmpkVzBTQnlEbFE3cEt0aFZEVExiVDlLLWNtbVVjVVFRQnlZUE1iU0g5SWlBU29lNzBHbl90eEU?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:02:41 GMT",
+      "isLive": true
+    },
     {
       "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
       "sentiment": "bear",
