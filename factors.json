@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:14:10.250Z",
+  "generatedAt": "2026-10-08T12:16:53.200Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,30 @@
   ],
   "live": [
     {
-      "title": "Gold Price Forecast: Gold Drops Below $4,100, Could Test $4,000 in Short Term",
+      "title": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Rising yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGRKMC16QS0ycTVsR2pJLUloUzNHRm1wRDgtd1RXNVdpVmxrVVNEamF5UUljMV9KZVBsbmlTYnBhaVRfaUlKakYyQVI2X0wwUXpzY2w3Z2I3TlFqUWpNRXRwRERnY0hUamt1QnhCRVRpR204NmRaV3piVUI5eWtSdzB6aktlRnVyc2xMcHJKYzZSa2tkdHkxbkN4NTAtbU43N2huMDhYV0RHQ3JqZzBN?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 09:46:29 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Forecast: Strong Dollar Caps Rebound After FOMC Minutes",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUxWaFZSWm9jazl2VTZLNkJZQ1Jram95MGRZUWJ0bG5mOTU5d0IyamtKZGN5UkdHTVZqS0dPY096bjNVMFcxdkVKWFdaZkg5RHUyLTMteF9YSURVTThkVjVfQWVWcmd6MzJkbGhkNG1XTGdCRGdwSnpBQWFJTlFwY0F5S1lFWlVHNmxIdDUxWHpBSy04MzhjNnVpakIwMTVlYURWTnhEV19GQmhqU1BqZkNuOHpLMXNuWVdKd3B1UWdYQQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 09:05:26 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls to a two-month low as real yields bite — can $4,000 hold?",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHpmM1htbG5RWnZpcHUzRzM4Nm0wOGVzNkdfdUxYbXo1RUR5NDZ2S1dFMTVQUDRYb2lENGZ2REQ4VGxOdk5OLWttZkV6dTVtdkw5S0REdGx1OWR6ek9CQ0xSc01XU21sTHl5U0FaY3hhaTF2dUZIbzhHTGltdWdRY1g2TTN2SE02dTA5dHdVSjNqRWoyWm83Nmw5VEdfejYtdnkyLXlhYkpjNlN6a2xhWVJfUlBEOGlSdUdtMw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 06:49:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3o4bDlGSmJkejBtdkladGJrRmszMHAxTTVzVG51T3Y2YXdCN0hCd1pSbUFSd2lOM0tzVGRTSERTaHF6TjNFNkVNMlRRbmhSQVM0aGJ2UEpqUWN0dWdsWEdhNlZPazVKTU1SbFB6WEdILTRkYWd5YUxnU3VkaGdyOUp5eVFiYnBzemRjMVpOMXV0NERpRkdjRlp5ampPMkZLREJV?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 07:51:41 GMT",
       "isLive": true
     },
     {
@@ -55,15 +73,6 @@
       "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
       "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold (XAU/USD) Price Forecast: Bearish Trend Deepens Towards Key Support Zone",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRTRXYTBwaUREYnppTmRIeVVEMXMwLWxSLUtDOFByeEprTDFHNGh6am9MSDN3UWNGV3ZkNDJqWEdvaE1qUG9McV80TVROSl9RM3VXQ1JIb2czclRQeVFyRUEzVVdTUzFFOHMxVWJJVGtFQkh5dnpqOGVqVnFCRFZSTGhZQ0ltMlNVOExDYmpkVzBTQnlEbFE3cEt0aFZEVExiVDlLLWNtbVVjVVFRQnlZUE1iU0g5SWlBU29lNzBHbl90eEU?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 03:59:00 GMT",
       "isLive": true
     }
   ]
