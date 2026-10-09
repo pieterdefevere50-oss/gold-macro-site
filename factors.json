@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:20:14.107Z",
+  "generatedAt": "2026-10-09T04:13:28.507Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,21 +49,21 @@
       "isLive": true
     },
     {
+      "title": "Oil Production Back to Pre-War Levels",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDVKdXVNdWg2d2ZTV0hKNHRwY3BiSmZjWi1ZZzVTMVJFWWVIVTZ4UVJQaDBaU0RsSTYxQkl4OUJpLTVZRDFPSVI1Z3FJWXNWX3hQZGQ2NXpUOXJrMTBSdzZjZ3AwdmxlWk5NY0NRN2M1UlBaYkNpUm8xWkREcjFheUtTUQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 03:28:53 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold Rallies, Silver Doesn't as Diesel Boosts the Dems' Mid-Terms Odds",
       "sentiment": "bull",
       "impact": 2,
       "text": "Describes upward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBfU0pwejJYbmdEVG83VDI3N05iSk5HN3JreVVGZDlKYkpNMjFWdXN2VUdDWEI5aEJnVTI0VGxobFVzNVNWZVltRlJJb2prQUU5eGhER2MxLW1HQ3A5bmJBUWR2MVRzSE85ZzZKRHd6TlgtVTVPeTBHNE1EcVRMdFpDU0VZVGJGNDkxOG9LRXZHb1RjVGxZNw?oc=5",
       "pubDate": "Thu, 08 Oct 2026 14:49:55 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold slides to two-month low as robust dollar, yields add pressure",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
       "isLive": true
     }
   ]
