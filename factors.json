@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:18:37.239Z",
+  "generatedAt": "2026-10-10T04:12:08.387Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,15 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Reflects concerns about US fiscal health, supporting gold as a hedge.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 01:21:00 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
