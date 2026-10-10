@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:10:30.649Z",
+  "generatedAt": "2026-10-10T20:10:17.470Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,5 +38,15 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": []
+  "live": [
+    {
+      "title": "Veteran Trader Gives Critical Warning for Gold Price",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KOWJBYVpST1E4d3RHZEJ4MDNsOEwtcnR6TVQ1aEFKdFFnc3BueUI0UkJJU3lDUnNSYXRpRzRod3QyMTRWdWxhUElVUDBrRE5xZG5RR0xvM1Etc3ZNYllFeE5UVDZ3Zw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 18:37:00 GMT",
+      "isLive": true
+    }
+  ]
 }
