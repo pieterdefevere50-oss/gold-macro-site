@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T16:11:08.202Z",
+  "generatedAt": "2026-10-11T20:10:36.598Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,21 @@
   ],
   "live": [
     {
+      "title": "Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHdFdmdGS3RROFktSzNxckY4d1dLM2thRWZpVUxSeVpPNzNTcjhSRUFNOG9WZzdzYVVzcFkxRnJiRFIxbElDRlBFcHFVMmVIdDVfSHlUNFVkRnJsVUhoMlB5SDVCcEVfM3BjLU5ManVLQS01a242bm5qcWdBY0NfOC1tXzcxbWV3OGQweWxWVjJPNVVldENraUJaclhXdzBQRWluZTF2eWNYdWdLUEx5UGV1d0pUZw?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 16:51:13 GMT",
+      "isLive": true
+    },
+    {
       "title": "A Record $31 Billion Gold Rush Is Sending Investors a Strange Warning About the Bond Market",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSVVqTmlIUFVwMHk1WjNCemF3ZkdfTGdXVXQ0SjBaaFduZVhLN2NNelVTN3FsTGpvS08tM3RDb1RCV3pIM3pSZ2ZNcTRPSEFIc1k2VlVqekFDZW5XMUNzbXc0LUw2N2tTZUdzMHJOeExvbG5tQjFFWW9qcVpnUjVEdktmeWo3bllTb1R2SVFxR3dEb3I1RXBlSFVTMUtHUXI1MDVhM1pUcWlvWkdBODJQNGZUTU13VVhYSDBNRmxRSEtGbkJxWjdWU0ZfN1BCeTQ?oc=5",
       "pubDate": "Sun, 11 Oct 2026 14:41:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Veteran Trader Gives Critical Warning for Gold Price",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcmlnTDVPczVsN3RDS1l2el9mSmN5YjlITjJXZk05VkliOEJXWkRKc2ZoU1YzakdjcmlSTFRWcU0yNXN6Uldoczc4MFo5OUVxdWtZcC1vb3dTVkE?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 22:51:42 GMT",
       "isLive": true
     },
     {
@@ -80,8 +80,8 @@
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KOWJBYVpST1E4d3RHZEJ4MDNsOEwtcnR6TVQ1aEFKdFFnc3BueUI0UkJJU3lDUnNSYXRpRzRod3QyMTRWdWxhUElVUDBrRE5xZG5RR0xvM1Etc3ZNYllFeE5UVDZ3Zw?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 18:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcmlnTDVPczVsN3RDS1l2el9mSmN5YjlITjJXZk05VkliOEJXWkRKc2ZoU1YzakdjcmlSTFRWcU0yNXN6Uldoczc4MFo5OUVxdWtZcC1vb3dTVkE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 22:51:42 GMT",
       "isLive": true
     }
   ]
