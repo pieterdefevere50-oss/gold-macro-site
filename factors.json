@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T20:10:17.470Z",
+  "generatedAt": "2026-10-11T00:18:08.977Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,6 +39,24 @@
     }
   ],
   "live": [
+    {
+      "title": "Veteran Trader Gives Critical Warning for Gold Price",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcHY2THNkcFQ4NWdTd3NMNVh6OVBpMFVHU0hKTXpDMlFpN2w4NEdCQ0s4RlBOSFVEZFptUlhWTmwyS0h4SVZackt0UWlhaXlPM3JpQndfXzVxUlVZSmNncldrdWp1NlVPZVg0clJOR2NrNzBsTFNWS2kwbmU3THZvSlM1RkE4ZkZfRlpaXzdKckhTZmNVQTBWRlhzU0NVVzVNZnZvbVROaGtBekU?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 18:37:35 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Veteran Trader Gives Critical Warning for Gold Price",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcmlnTDVPczVsN3RDS1l2el9mSmN5YjlITjJXZk05VkliOEJXWkRKc2ZoU1YzakdjcmlSTFRWcU0yNXN6Uldoczc4MFo5OUVxdWtZcC1vb3dTVkE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 22:51:11 GMT",
+      "isLive": true
+    },
     {
       "title": "Veteran Trader Gives Critical Warning for Gold Price",
       "sentiment": "bull",
