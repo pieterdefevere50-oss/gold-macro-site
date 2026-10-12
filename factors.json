@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:24:50.272Z",
+  "generatedAt": "2026-10-12T16:14:05.158Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,39 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold Price Forecast: XAU/USD Plunges 12.4% Toward Critical Support",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHdFdmdGS3RROFktSzNxckY4d1dLM2thRWZpVUxSeVpPNzNTcjhSRUFNOG9WZzdzYVVzcFkxRnJiRFIxbElDRlBFcHFVMmVIdDVfSHlUNFVkRnJsVUhoMlB5SDVCcEVfM3BjLU5ManVLQS01a242bm5qcWdBY0NfOC1tXzcxbWV3OGQweWxWVjJPNVVldENraUJaclhXdzBQRWluZTF2eWNYdWdLUEx5UGV1d0pUZw?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 16:51:13 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Currency market: Gold drops in price as foreign exchange demand surges in Belarus",
+      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXg2RnhBVTdJeGx4dXpCREthaGVlWnV2cm83WGFSdmF3RnRBdEFmQ210cjRmajdWUmtnRFBlRkVweXBlay1mMDN5Z0JXYml6Z1loX2F5T3dKSllpdU9LTWM1bXBIZ1ZaeTRDTm00OS05andzRnYtSVpkNDhRRF9LdV9ONkFhOVVvTFRWYmx3aS1XbGM5ODFlNW1XUHk3VVFnQlgwNWJCTDlmSG5rdFo0?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 09:55:00 GMT",
+      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 03:13:00 GMT",
       "isLive": true
     },
     {
-      "title": "China Seizes on Gold Price Dip to Import Over 1,000 Tons in Eight Months, Accelerating De-Dollarization",
+      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Reflects diversification away from the dollar, which structurally supports gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1bXY2MF9MbHFSeTZqRWRRejVnUGlqME9PRDFJUDhjSUgwZV9acjZCTG9sSS12NFNIdG1VWDRPajdRSUdjR1pBd0JWY0VCWHRDcWZOTVNTT2hhblhxNTdKd1VyMUotNlhBc0UzMF8zWThvZ05mZXc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:25:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Uzbekistan Gold Reserves Rise to 446 Tons Despite Price Drop",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Relates to gold reserve levels — accumulation trends tend to support the structural demand story.",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbjdGZWFWemNFZHpvbHhMWXdHTHZObUN1RFB3ZUdGRHpQQ3Z6WUlQcUdZbkswZ3Y1Z1lDdE5ac2ZXZzRmWW5FVElNRnBHdER0ZzdUSWEzdllRTVhvTF9fZzhFSEt5TFpKbkxB?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 10:09:30 GMT",
+      "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:51:28 GMT",
       "isLive": true
     }
   ]
