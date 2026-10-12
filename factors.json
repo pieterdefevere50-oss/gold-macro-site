@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:16:44.205Z",
+  "generatedAt": "2026-10-12T12:24:50.272Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,12 +49,30 @@
       "isLive": true
     },
     {
-      "title": "Veteran Trader Gives Critical Warning for Gold Price",
+      "title": "Currency market: Gold drops in price as foreign exchange demand surges in Belarus",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXg2RnhBVTdJeGx4dXpCREthaGVlWnV2cm83WGFSdmF3RnRBdEFmQ210cjRmajdWUmtnRFBlRkVweXBlay1mMDN5Z0JXYml6Z1loX2F5T3dKSllpdU9LTWM1bXBIZ1ZaeTRDTm00OS05andzRnYtSVpkNDhRRF9LdV9ONkFhOVVvTFRWYmx3aS1XbGM5ODFlNW1XUHk3VVFnQlgwNWJCTDlmSG5rdFo0?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 09:55:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "China Seizes on Gold Price Dip to Import Over 1,000 Tons in Eight Months, Accelerating De-Dollarization",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcHY2THNkcFQ4NWdTd3NMNVh6OVBpMFVHU0hKTXpDMlFpN2w4NEdCQ0s4RlBOSFVEZFptUlhWTmwyS0h4SVZackt0UWlhaXlPM3JpQndfXzVxUlVZSmNncldrdWp1NlVPZVg0clJOR2NrNzBsTFNWS2kwbmU3THZvSlM1RkE4ZkZfRlpaXzdKckhTZmNVQTBWRlhzU0NVVzVNZnZvbVROaGtBekU?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 18:37:35 GMT",
+      "text": "Reflects diversification away from the dollar, which structurally supports gold.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1bXY2MF9MbHFSeTZqRWRRejVnUGlqME9PRDFJUDhjSUgwZV9acjZCTG9sSS12NFNIdG1VWDRPajdRSUdjR1pBd0JWY0VCWHRDcWZOTVNTT2hhblhxNTdKd1VyMUotNlhBc0UzMF8zWThvZ05mZXc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 11:25:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Uzbekistan Gold Reserves Rise to 446 Tons Despite Price Drop",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Relates to gold reserve levels — accumulation trends tend to support the structural demand story.",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DbjdGZWFWemNFZHpvbHhMWXdHTHZObUN1RFB3ZUdGRHpQQ3Z6WUlQcUdZbkswZ3Y1Z1lDdE5ac2ZXZzRmWW5FVElNRnBHdER0ZzdUSWEzdllRTVhvTF9fZzhFSEt5TFpKbkxB?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 10:09:30 GMT",
       "isLive": true
     }
   ]
