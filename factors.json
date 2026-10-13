@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:15:14.693Z",
+  "generatedAt": "2026-10-13T20:23:14.532Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,12 @@
   ],
   "live": [
     {
-      "title": "Gold rises on weaker dollar, lower oil ahead of US inflation data",
+      "title": "Gold holds steady ahead of US inflation data, Warsh remarks",
       "sentiment": "bull",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
       "pubDate": "Tue, 13 Oct 2026 02:23:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 02:33:11 GMT",
       "isLive": true
     },
     {
@@ -67,12 +58,12 @@
       "isLive": true
     },
     {
-      "title": "SSR Mining Outlines 20-Year Marigold Mine Plan with Gold Reserves Rising 43% to 4.6 Million Ounces",
+      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Relates to gold reserve levels — accumulation trends tend to support the structural demand story.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGxCYjNFM0RWR0tjaktXNmhpUG5BZGQ4WXdmTTM3MS03UF9ySUViUHpCOTh0c0VJd1ZoOGFXQXdKcW0wNVoxU1pobGNuNHJhNUx1TEZka0hpdVZ1czBqTEJnOHNKZHM0dGtXdkVlelA1ajllZG1mM2NLY2NXdks1NW1iOVZId1BHbUlhcmdFZ3BCM0dCX3Ewc3BNSVItYklRazNR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 10:58:50 GMT",
+      "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:36:00 GMT",
       "isLive": true
     }
   ]
