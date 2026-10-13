@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:13:33.439Z",
+  "generatedAt": "2026-10-13T00:20:53.267Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,15 +40,6 @@
   ],
   "live": [
     {
-      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 12:36:00 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
       "sentiment": "bear",
       "impact": 2,
@@ -64,6 +55,15 @@
       "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaG93eVdSOEsxa1MyMDg2Tno5TER0VFFrZnk0WUZ0cU92VElwU2t0RXN0WVFibV9ZZ1VnX3ZPOVZrSFdXMWNrY1BBMGlmQkJCdV90WmxHcVdPM1FFb0R3aXRwX2g5UWg2WGlVdmtubHJMZ1FLOFJQTmJQR1lIQ0FwcU9DYWRnTVIycVFBMloxeHhiVmlEemdGTEM4eEQ2c24wOVFhbEN3cDgtamJ2SGlGMVVQRGJUbFU4ZEMtMzZHcDFDMENBSHBZWVNuV1NOd9IB4gFBVV95cUxNU2pha0d0dm5KMXRyNk01QnZ2RmxJTXlFa0pSXzFuVXVBSmExLV9kZXNQU2M3UTdNb3FsZi01SG1PLXFVU2szQTFFX09YWDAxSFdVblh0TVI5X1ozSWpIVGhZQkhYa3psZkhhNDR0S1NBQ2NxeDU1b1RZVURfMTZ1TDF6aTZjdHQzWnBZeU9fLXRNSzZJc2Y1VEdOZ2lCbVlwdXlhTmVGZjJrVmtBc0tSNzNPTkVtMTdlcDNsQXNjNk00Y3BvNjR3Sy0ydFB1d3B6UTk4UWRfdG5tNGpnRTNrWURR?oc=5",
       "pubDate": "Mon, 12 Oct 2026 16:29:01 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:36:00 GMT",
       "isLive": true
     }
   ]
