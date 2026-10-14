@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:28:24.949Z",
+  "generatedAt": "2026-10-14T20:23:30.348Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -58,21 +58,30 @@
       "isLive": true
     },
     {
+      "title": "Gold Price Today: Gold Falls 2.11% on October 14, 2026",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUy1iY29YMGNrdjFtOWxrM0o1SXowNmF0QjJ1Q2xUS2I4bmhLRnJDUFhiWUZmQlI2dGZqYnB4U3BGaWNyYnVYcmltTXlNWW1xUzZLbGpnRnJ6aVpDbHRUMGRod01pMTA4VU9LbGxxSlpObmYtdWJjWU5yRnBGSXVhckVvb21MbVk4aVZtUjc5RlRiVU0ydHRoNUUzV0phQzhfN05oMzJ2QkkzZw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 16:14:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold drops over 1% as hot U.S. inflation data boosts Fed hike bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOblhrUjV2RGRBZkItWTgxN3Z4N3FGMEY3Zy1KSlJJVDE5NEsyeWRqc1U2emk4SGhPTG1MaG1lZVh6VVFrMGlLMmZyMlloSHNheXppaDRORzFRMXJYMUVXeEJVbEdDOF9zeENrcHJjbk1tTHEzTEltZDBZU0lVazhSeklCTXBpd19hRXRqdzFR0gGTAUFVX3lxTFBqZzBSQllPRXAwX0xEcjR4blI4MXNmR0U5OFZaNTZkYUZsMEFmTndKekxqSXlIcTRWLXhoNURhLXJVaE9rMHBEeDB1cE1jTjRjT2c1a3R1c1h5QXJRdF9HbXhodUFqOUI1MDRwR1NVVy02MGRPb3JyZU9YcWtMRVVqVEVfeGhxQ1Q2XzUyYllHWTNSYw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 04:09:12 GMT",
+      "isLive": true
+    },
+    {
       "title": "Rising Government Debt Extends Gold’s Appeal Beyond Fed Rate Cuts",
       "sentiment": "bull",
       "impact": 2,
       "text": "Signals lower interest rates ahead, which reduces the opportunity cost of holding non-yielding gold — typically bullish.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjhPdVhxSDJzSU5TdERqSEtYQWdGZlplT09HbjdWOWhISXJOTGVyMnQ4YlhEVXkwTHMyclZiNk4zZDF1SVZwQUZCd2lRTW56dklodE1MSXVzZXJ5cV95Y2c2R3R3OUFhb3lIUWhUTUZyN3kwQUIxUXo2azIyYjIyWGpFdFBSU0hPZTFmMFUzQ3B5WlhiWnU4cFZzb2FZTXBZ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 13:04:13 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold subdued ahead of US inflation data, Warsh remarks",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 02:23:00 GMT",
+      "pubDate": "Wed, 14 Oct 2026 13:30:29 GMT",
       "isLive": true
     }
   ]
