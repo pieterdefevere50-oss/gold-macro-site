@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:26:17.856Z",
+  "generatedAt": "2026-10-14T12:29:30.647Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,30 +40,21 @@
   ],
   "live": [
     {
+      "title": "Gold Price Forecast: US CPI in Focus as XAU/USD Eyes a Rebound Towards US$4,300",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmNuLVpDc0hOOXZaUzFWLXFKZFlsV0pnMzVXaUtTc3dPa21XY0tnT2d6ZHRNNFR1MEpwM1FkZUg4NGFtWF9mR3lPaDZzRWhJX2lxd09TaWZFOWpieEs0N1lWV1owSFE4VDhZMEVxU1k4WDlFRWI2a1diUVE3OTlBUXBNYkZwY1BDeTVyVEVRTjNmZ2lfV0pwUg?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 10:28:34 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold subdued ahead of US inflation data, Warsh remarks",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
       "pubDate": "Tue, 13 Oct 2026 02:23:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 18:36:35 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 19:36:00 GMT",
       "isLive": true
     }
   ]
