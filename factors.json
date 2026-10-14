@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:23:14.532Z",
+  "generatedAt": "2026-10-14T00:26:19.327Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold holds steady ahead of US inflation data, Warsh remarks",
+      "title": "Gold subdued ahead of US inflation data, Warsh remarks",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
       "pubDate": "Tue, 13 Oct 2026 02:23:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold: If Wars Can't Spark a Rally, What Will?",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3doazRLamtMUkVJei1laGUyMjZkY0ZvNGI1eWlYNHdWU3F3aUhhWXlGblczbHpPWGdQU1dBRTFaQnhrXzZEZ0N2cU4xMUpLTm1EdDdVMGNSMS0yRUlISFcxVWZ6dWlJZVdja3N6YkdTQlgwa1JWUmFXZ1FwdG02VFRZN0Q2MUlXcW54ZHNfTQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 20:58:16 GMT",
       "isLive": true
     },
     {
@@ -64,6 +73,15 @@
       "text": "A dovish tone from policymakers points to easier monetary policy ahead, typically supportive for gold.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
       "pubDate": "Mon, 12 Oct 2026 12:36:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold and silver ALERT: The next big upward move could begin with another selloff",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSm5QVURKV21EMWc1cE45NElVRnhfMS15ZFRwWjk2SEZ4TUJhNzhfUWZPMzVLWE5oNGxVWVZINHVTSnh0SU1NZEVvY0tLNDR0WEpKaHpQWEZzdmd2bFgxRUNIakx0blVTTVRlalg1VjJWM3dYcmJfVnhaTHFsSE95b2JuZzZ6YlNqLWlrYkQzUGUxNDVCb1lVcTEwQVJLOW5YQ0htUGVvMC0tNlFmX1FUbA?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 21:02:38 GMT",
       "isLive": true
     }
   ]
