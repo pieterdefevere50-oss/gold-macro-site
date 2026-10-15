@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T08:26:38.363Z",
+  "generatedAt": "2026-10-15T12:29:20.336Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,21 @@
   ],
   "live": [
     {
+      "title": "Gold climbs over 1% on softer dollar, yields ahead of US inflation data",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes upward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 03:18:00 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold Price Analysis: XAU/USD Eyes Recovery Toward $4,200 Resistance",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1k5c2lTVmpVVDZYMndUNmhYaXJsSGxkSGd5VVdlSjdIMTNzN2ZrT0ZBdUtWQkhZODZwa2JaeGtrbUJQQnZRQzJ5b29SUFYyN3JQS0NDQ1RsNVdGT2dCUnF0M3dnZ2Q1S2I2a2VGeXMzQm82Zkk0S0twMnBpMGpPOEpnVkctT0lkUE5mbExvVWxfY09mcUJDODRhRUN1ZEE?oc=5",
       "pubDate": "Wed, 14 Oct 2026 14:50:45 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold price slumps as faster US inflation stokes Fed rate hike wagers",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNckg1NVM4ZE9wSkdVUGpUMm5QanlXQWFTU2s5eWozOWRHekFTTGJxNVRGSndNT3ZSb2VEb2NhY0JCT0Q1S1lnLWFDN0Q5TTdrTllsZ0ZNTzZUYktlODU4cF9aa0tmUEY2elJxSkN2X2hvaUlZREdsVUhLOGdTWU5fbmhOb1NENGVjdlB1Z1Y4VVh1cXhL?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 16:49:49 GMT",
       "isLive": true
     },
     {
@@ -67,12 +67,12 @@
       "isLive": true
     },
     {
-      "title": "Gold subdued ahead of US inflation data, Warsh remarks",
+      "title": "Gold Prices Recover as Weaker Dollar and Falling Bond Yields Offset US Inflation Concerns",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:52:06 GMT",
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFVaWno3TG10cU9rNzktMkhhWnY4VmpVZE9PQzlmY0l0Z0xoTDN3UTJUVk9BRUM2R3JiRTM5VlVMMTcwT1kxRVZTZVNSYkVDYTc4UW5XdkF3RnB2OVFzQzZQYWd5Y0hud1M0dUp6U0tjWW1kX0dpRjFTZ2hyN2h6ODNmTkFDS1RFd1E?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 09:46:34 GMT",
       "isLive": true
     }
   ]
