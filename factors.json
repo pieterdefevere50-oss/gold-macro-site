@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:23:36.864Z",
+  "generatedAt": "2026-10-15T08:26:38.363Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,15 +49,6 @@
       "isLive": true
     },
     {
-      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold price slumps as faster US inflation stokes Fed rate hike wagers",
       "sentiment": "bear",
       "impact": 2,
@@ -67,12 +58,21 @@
       "isLive": true
     },
     {
-      "title": "Gold Price Forecast: US CPI in Focus as XAU/USD Eyes a Rebound Towards US$4,300",
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold subdued ahead of US inflation data, Warsh remarks",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTmNuLVpDc0hOOXZaUzFWLXFKZFlsV0pnMzVXaUtTc3dPa21XY0tnT2d6ZHRNNFR1MEpwM1FkZUg4NGFtWF9mR3lPaDZzRWhJX2lxd09TaWZFOWpieEs0N1lWV1owSFE4VDhZMEVxU1k4WDlFRWI2a1diUVE3OTlBUXBNYkZwY1BDeTVyVEVRTjNmZ2lfV0pwUg?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:28:34 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:52:06 GMT",
       "isLive": true
     }
   ]
