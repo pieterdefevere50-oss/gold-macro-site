@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:25:32.500Z",
+  "generatedAt": "2026-10-15T20:21:23.637Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,6 +39,15 @@
     }
   ],
   "live": [
+    {
+      "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 03:18:00 GMT",
+      "isLive": true
+    },
     {
       "title": "Gold Rallies, Silver Doesn't as Tech Stocks Sink with Bond Yields",
       "sentiment": "bull",
