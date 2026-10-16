@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:24:15.593Z",
+  "generatedAt": "2026-10-16T20:19:39.736Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,30 @@
   ],
   "live": [
     {
+      "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:42:05 GMT",
+      "isLive": true
+    },
+    {
+      "title": "World Gold Council: China buys heavily on gold price dip; ETF holdings hit record high",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckRNSnkzejNKTXZ5NC04d3dCOHhsNzQybGYyOWRLOVB0RTF1X1dOYml4NUlhWVRpUmhlN0x0eGg0aC1hYzViU3ZYNW9UYy1IV3hpdEdKVTU4R2VRdVNtM3JpbjE4QnZlbnlOeTJVZmpzNmh1OUttT1ctamRqSkkwQnRJbEREbVg1b1RKUXBDV3U4c2hGa3ZWTXFERW02REt0?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:40:32 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold (XAUUSD) Price Forecast: Warsh Eases October Hike Pressure, December Risk Remains",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEUwR2I4RzNVSTI5VEN1QXpGMW9pTERBeW5PTnlLYjk5UTN3eGZfY0FxYU5OSTBpcjFpemtCU3YwSW5GbTBlSmdLeV9WUE9xcGdpX09GZDFLcUdvVm9fWmRwWkMxZm5NNEJUVDU1aEhHeXB2T19FOHNPWlFsd0JWdzk5ZTM1U20yU293MXhSYkVnMEh1emlhcmxFY08zamtYcTRCdHRNNUZBUkxjWUoxV1N5blJkcHRqaEROSENCTUxSRUYzOHpESFYzbHItQQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:04:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Prices Rise as Lower US Treasury Yields and Weaker Dollar Support Precious Metals",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2RZenRjYVptbmQyak9SR0UybHlFWWVxSHpkNEMyOTRVak1YaVQ0VXNhNEpmRTNzdnM0c2cyTktJZzhxaGZZSk5fRk1VZ0tvaF9reFlUMGkxakNhdkxTSVUyeHVOaWtrZE10NzBHd0ZqUzV4Nm1mYTZ3RkRKeU9rVkFBNHB2LWMwR1I1RFl3ZWdMblNkVFRmTGktMA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 09:05:17 GMT",
+      "pubDate": "Fri, 16 Oct 2026 13:03:31 GMT",
       "isLive": true
     }
   ]
