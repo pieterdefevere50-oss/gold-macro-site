@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:23:49.309Z",
+  "generatedAt": "2026-10-16T08:24:49.998Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,6 +40,15 @@
   ],
   "live": [
     {
+      "title": "Gold (XAUUSD) Price Forecast: Warsh Eases October Hike Pressure, December Risk Remains",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEUwR2I4RzNVSTI5VEN1QXpGMW9pTERBeW5PTnlLYjk5UTN3eGZfY0FxYU5OSTBpcjFpemtCU3YwSW5GbTBlSmdLeV9WUE9xcGdpX09GZDFLcUdvVm9fWmRwWkMxZm5NNEJUVDU1aEhHeXB2T19FOHNPWlFsd0JWdzk5ZTM1U20yU293MXhSYkVnMEh1emlhcmxFY08zamtYcTRCdHRNNUZBUkxjWUoxV1N5blJkcHRqaEROSENCTUxSRUYzOHpESFYzbHItQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 07:04:00 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold price forecast: Why investors expect record highs within 2 years",
       "sentiment": "bull",
       "impact": 2,
@@ -58,12 +67,12 @@
       "isLive": true
     },
     {
-      "title": "Gold Rallies, Silver Doesn't as Tech Stocks Sink with Bond Yields",
+      "title": "Gold Price Forecast: XAU/USD Eyes $4,200 After Warsh Stays Neutral",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Describes upward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHVtYVR2cDl6UnljRHdWVy1LdVRlMktpUlVzMFpBQ2N3ak9faFB2ZV9EU1AwZlc2a2kyMUkyUTZQeERtdWZMZG5ETlVjUnhiendaMGZ0ZzJKT2J3bEZxNzZPaGZMUm1zdWpGbWNjQS12c3c5bTIzNGV6bFFlUTRmcWF3Y1NfcEM2bVRPeQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:27:36 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcGk5TVkzVS1GWTlIeTFQbU9CZThYVF9hSXBBeHg2MDI4Z3QtSlNMTnNTUnpEdF9KS3pmWjRHdTRxTFhRZjE0aG5YQVJmVS1LTlhySkJCdzRsaEMyUGl3ekJTU3libjNSY1RZYXlJUnhrTWRvb0tCY21UOURCM3pYckc3aXBQYmRfWXlyLW5wOGdGQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 07:31:23 GMT",
       "isLive": true
     }
   ]
