@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:21:10.032Z",
+  "generatedAt": "2026-10-17T16:19:05.497Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,21 @@
   ],
   "live": [
     {
-      "title": "World Gold Council: China buys heavily on gold price dip; ETF holdings hit record high",
+      "title": "Safe Havens, Dwindling Assets: What SSR’s Roxmore Acquisition Means for Gold M&A",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckRNSnkzejNKTXZ5NC04d3dCOHhsNzQybGYyOWRLOVB0RTF1X1dOYml4NUlhWVRpUmhlN0x0eGg0aC1hYzViU3ZYNW9UYy1IV3hpdEdKVTU4R2VRdVNtM3JpbjE4QnZlbnlOeTJVZmpzNmh1OUttT1ctamRqSkkwQnRJbEREbVg1b1RKUXBDV3U4c2hGa3ZWTXFERW02REt0?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 16:40:32 GMT",
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2tXVUplelpCRExhSGIwamt1bmltZFJMbnNSVXpEZFp6R1h6SkVaeENOQ3NKTTJ6Yk1HQUxZMG4tX29nM2pPd0txd0NlRzVsazB6LTF2dHdvRm1ERlJPMml6eVFDU3BacFBybndaazZlRHExcDVvb1R6Nm12eTlQQThwQ0E4RjgxMVBOb2JKbWlaenhjVkxYMzA1dTczQXZhZEFmQ3lWa0pvYlhiMURyVDZ3?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 12:37:25 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Prices Fall for the Week as US Inflation Fuels Rate Hike Concerns - Fana News -",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTlJU09OUFQ3VTJWZ3pQTHNlM3haZ24tMEJfOVRTRXFmVHhfa20tWGc0WmQ3V0ZUQ2ktckVmYXdOLWVycklIcmE2VTB1dEpWVFpCVm5GSUdaamF2SGlsdTQ3OVFZYVJxVDB4dUJiSGc1LUoxY3VJdlZ3eGZ1S3FsNy1NVkFHcTdORUN2VElXbDFMR2k0SllCUDM5ck1KSWJ6enplZTdxVGcwcUw3?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 09:54:57 GMT",
       "isLive": true
     },
     {
