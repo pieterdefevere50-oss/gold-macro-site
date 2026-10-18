@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:20:57.946Z",
+  "generatedAt": "2026-10-18T16:19:37.163Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,24 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Safe Havens, Dwindling Assets: What SSR’s Roxmore Acquisition Means for Gold M&A",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2tXVUplelpCRExhSGIwamt1bmltZFJMbnNSVXpEZFp6R1h6SkVaeENOQ3NKTTJ6Yk1HQUxZMG4tX29nM2pPd0txd0NlRzVsazB6LTF2dHdvRm1ERlJPMml6eVFDU3BacFBybndaazZlRHExcDVvb1R6Nm12eTlQQThwQ0E4RjgxMVBOb2JKbWlaenhjVkxYMzA1dTczQXZhZEFmQ3lWa0pvYlhiMURyVDZ3?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 13:40:36 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 17:42:05 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
