@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:15:56.971Z",
+  "generatedAt": "2026-10-19T00:25:35.293Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,15 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Safe Havens, Dwindling Assets: What SSR’s Roxmore Acquisition Means for Gold M&A",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2tXVUplelpCRExhSGIwamt1bmltZFJMbnNSVXpEZFp6R1h6SkVaeENOQ3NKTTJ6Yk1HQUxZMG4tX29nM2pPd0txd0NlRzVsazB6LTF2dHdvRm1ERlJPMml6eVFDU3BacFBybndaazZlRHExcDVvb1R6Nm12eTlQQThwQ0E4RjgxMVBOb2JKbWlaenhjVkxYMzA1dTczQXZhZEFmQ3lWa0pvYlhiMURyVDZ3?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 13:40:36 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
