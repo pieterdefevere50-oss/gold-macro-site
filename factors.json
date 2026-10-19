@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:31:24.130Z",
+  "generatedAt": "2026-10-19T16:26:55.475Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,24 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold Prices Rise Above $4,200 in Futures Trading as Fed Rate Hike Expectations Ease",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcm5BbXZGNHU2cUJrYkNmMlBpX21aaXFHY3dMZjFDZ0FUd0pVdmlHb2FmM3pmWHJmRzB3VkpITm0wOWNrT0hkWWxIdnEwVWlVLU9nb2psczFTYjl1OHpJd1FjQXNualZ2OGZEd0tUZjNPUkVGNXZwSVVvRUh0d1F1T2dfeFJ1MWhQaU9sZnlLemQ5aW1Rcnc3dndn?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 09:12:43 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTBLZU9TUTlSdFAyZmhkN1lsaVhYdk9nZVR0ak8tM1IzWi1Qa2tTa1pHcVBvcmFEazJIaF8waEVXLUdjSS0wUnlQR3FIMmhTOVRGcWR5UERxWmc5bmZmQldUNDJVVEFNc1VIcjlpU0lUSC1IYTVsenI2Unh4UDk3eElhVzBTMmtYTEhma0YyZjVnc3Vnb0k1V3ptMWlOdXBTc3c?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 23:47:43 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
