@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:26:59.617Z",
+  "generatedAt": "2026-10-20T20:22:23.452Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,30 +40,30 @@
   ],
   "live": [
     {
+      "title": "Gold Rallies as China and India Prices Signal Stronger Demand",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes upward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkZJdFJQVlFDSWVkSU42MzFCQk0xUVlmODByVXQ4UGx2VGxSaEk1NmR0dGI3NGQ5RGMybVJGYWl1LTBOaVV4OTc2ZGU3TDJuR1pGNXlQek95RTFoZXEtTUx4VGhjNTVnemV0NlhwdmlReExRYTFDVnU4R0J2RFFjekdEN2p0R01IQlE2WFhkOTVYOWc1WnM4WQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 15:23:41 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back Towards The $4100 Level",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2llR0hxTVpKUXRkOHJqRlJFZzZTQjFuQ3NWSXBVTmZ1NGdfVEtTbjNTY2pjUWtXVjhLTXJTak9UTDBnaWNiUjRHSnR2SkVjb1VTcmJidEd5OEFaM2xjUUs0cDlGZ0NORHV1VlBJSVd5cHR2enF5aE1keVR1RGl6OXY0MjFtcmY5SlNEbmJTQ0JDaE1zcU1QbjNtYnlQd2VZcHBwUTctYzhEanRvdFYxR2lFeEMxaWNFc1BmSGdsUndfbXgtbnc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 17:30:16 GMT",
+      "isLive": true
+    },
+    {
       "title": "Central Bank Buying Supports Gold’s Recovery Case Despite Higher Yields",
       "sentiment": "bull",
       "impact": 2,
       "text": "Reflects central bank accumulation of gold reserves, reinforcing structural demand.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTRlVm44OXZTZUh5eVlRTFhGTzMwdG1XY2x2cWpkcGI2SHhaUzd6UG5KWXRTYjVJVlgxbTE4Vmw1R0pFSjVJYXdCcHRLSndxRTJUOWVIRzJ1ZW1ITFhwQThaTk43LWw5RFMxdHNHbmxZc0lmR29rNnhaMVFtdWMzWV9yLUx5NkRVV19DTExwYzN4emNQYnV5dEdHU3MzclRCcFJLbjNickI?oc=5",
       "pubDate": "Tue, 20 Oct 2026 14:17:20 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 14:00:39 GMT",
-      "isLive": true
-    },
-    {
-      "title": "How safe havens stack up as tech, energy and France fears grip markets",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 04:06:00 GMT",
       "isLive": true
     }
   ]
