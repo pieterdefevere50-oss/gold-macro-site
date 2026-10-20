@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T08:26:52.147Z",
+  "generatedAt": "2026-10-20T12:28:27.417Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -46,6 +46,24 @@
       "text": "Points to safe-haven demand as investors seek protection from risk.",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
       "pubDate": "Tue, 20 Oct 2026 04:06:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 11:30:10 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as Houthi Strikes Lift Oil and Yields",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWVF6U0k2ejlhUTBjd1FoTTBGQUF1MHdEMkJKcmE3aUVzNnh6YUZTXzByN1BMSTFmUUgtYTZRZXdhZTAyRk5BSHROR1dVNVNpc0RzZ3hUQW5OdzFtbG9WTi1kWFM5dC03MTV4Y3RjeUxIRTd4cURmbXJ1MGhFcDN6SHRZWU5rZWlHbElWZUI1QkJmZFd3X3lVNWZB?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 06:40:15 GMT",
       "isLive": true
     }
   ]
