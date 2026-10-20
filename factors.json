@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:28:38.403Z",
+  "generatedAt": "2026-10-20T04:24:39.737Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,6 +39,15 @@
     }
   ],
   "live": [
+    {
+      "title": "How safe havens stack up as tech, energy and France fears grip markets",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:06:00 GMT",
+      "isLive": true
+    },
     {
       "title": "Gold Prices Rise Above $4,200 in Futures Trading as Fed Rate Hike Expectations Ease",
       "sentiment": "bear",
