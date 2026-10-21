@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:26:29.035Z",
+  "generatedAt": "2026-10-21T08:28:32.331Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold Rallies as China and India Prices Signal Stronger Demand",
+      "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as December Fed Hike Odds Hit 90%",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Describes upward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkZJdFJQVlFDSWVkSU42MzFCQk0xUVlmODByVXQ4UGx2VGxSaEk1NmR0dGI3NGQ5RGMybVJGYWl1LTBOaVV4OTc2ZGU3TDJuR1pGNXlQek95RTFoZXEtTUx4VGhjNTVnemV0NlhwdmlReExRYTFDVnU4R0J2RFFjekdEN2p0R01IQlE2WFhkOTVYOWc1WnM4WQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 15:23:41 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUt2d0tsRGxXQy1pNmFYMEloeTZTOWNFdTNyUTZtaXA0ajl6bTVHVjZqSC1USkZsSWZfcE1PYjVfRXFscUlKRml3STRBMjVILWhlc3ZyY0tRRURPNFUzV2xwWElTZjlpbzhXVGlYdzFlRzdEaFU2S2JaNWp3UGhNNzltNVpCeUh0cUZ0bUF2RnJNY3dLNlFnU08yNWpuOUk?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:34:17 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls for a third straight session as silver extends gains and the gold-silver ratio slips",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXF1aFNOZjZnSmQyS0tpcWJ0U3lyUzRZeGNQUUpZU2JLTkRPS3RWM202eGpYaWNkVlpaTWVwWW0yVm15VFU5ekxpRm0xZ2EwSWktbTlZcjdoRVBPSDVOakNYaXZuckUwX0l1eUlObEpHOFVPYTlTTURtRVRENTZ3RE00N2hRbUx4Z2I4XzBmZnFJTW1saWZneWdjN2Zyalctd2UtUlozWFZEZjU2RW5zMmtMWi0talph?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 00:05:11 GMT",
       "isLive": true
     },
     {
