@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:26:28.106Z",
+  "generatedAt": "2026-10-21T04:26:29.035Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,15 +40,6 @@
   ],
   "live": [
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back Towards The $4100 Level",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2llR0hxTVpKUXRkOHJqRlJFZzZTQjFuQ3NWSXBVTmZ1NGdfVEtTbjNTY2pjUWtXVjhLTXJTak9UTDBnaWNiUjRHSnR2SkVjb1VTcmJidEd5OEFaM2xjUUs0cDlGZ0NORHV1VlBJSVd5cHR2enF5aE1keVR1RGl6OXY0MjFtcmY5SlNEbmJTQ0JDaE1zcU1QbjNtYnlQd2VZcHBwUTctYzhEanRvdFYxR2lFeEMxaWNFc1BmSGdsUndfbXgtbnc?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 23:49:22 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold Rallies as China and India Prices Signal Stronger Demand",
       "sentiment": "bull",
       "impact": 2,
@@ -58,12 +49,12 @@
       "isLive": true
     },
     {
-      "title": "Central Bank Buying Supports Gold’s Recovery Case Despite Higher Yields",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back Towards The $4100 Level",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Reflects central bank accumulation of gold reserves, reinforcing structural demand.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTRlVm44OXZTZUh5eVlRTFhGTzMwdG1XY2x2cWpkcGI2SHhaUzd6UG5KWXRTYjVJVlgxbTE4Vmw1R0pFSjVJYXdCcHRLSndxRTJUOWVIRzJ1ZW1ITFhwQThaTk43LWw5RFMxdHNHbmxZc0lmR29rNnhaMVFtdWMzWV9yLUx5NkRVV19DTExwYzN4emNQYnV5dEdHU3MzclRCcFJLbjNickI?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 14:17:20 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb2llR0hxTVpKUXRkOHJqRlJFZzZTQjFuQ3NWSXBVTmZ1NGdfVEtTbjNTY2pjUWtXVjhLTXJTak9UTDBnaWNiUjRHSnR2SkVjb1VTcmJidEd5OEFaM2xjUUs0cDlGZ0NORHV1VlBJSVd5cHR2enF5aE1keVR1RGl6OXY0MjFtcmY5SlNEbmJTQ0JDaE1zcU1QbjNtYnlQd2VZcHBwUTctYzhEanRvdFYxR2lFeEMxaWNFc1BmSGdsUndfbXgtbnc?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 00:16:00 GMT",
       "isLive": true
     }
   ]
