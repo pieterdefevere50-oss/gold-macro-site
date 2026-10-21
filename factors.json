@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:26:15.896Z",
+  "generatedAt": "2026-10-21T20:22:36.652Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,30 +40,12 @@
   ],
   "live": [
     {
-      "title": "Gold falls for a third straight session as silver extends gains and the gold-silver ratio slips",
+      "title": "Evening digest: SpaceX surges, oil steady, gold falls",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXF1aFNOZjZnSmQyS0tpcWJ0U3lyUzRZeGNQUUpZU2JLTkRPS3RWM202eGpYaWNkVlpaTWVwWW0yVm15VFU5ekxpRm0xZ2EwSWktbTlZcjdoRVBPSDVOakNYaXZuckUwX0l1eUlObEpHOFVPYTlTTURtRVRENTZ3RE00N2hRbUx4Z2I4XzBmZnFJTW1saWZneWdjN2Zyalctd2UtUlozWFZEZjU2RW5zMmtMWi0talph?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 21:01:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 13:00:11 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WdnJJOGRiLUl2S25aWER1amp5THIzbVphMy03THhNenlpaExPX045LVpiTnNNTXgxbDZVRkVaRDJCYU9EYzhHNlhjdi1LNlNhcmNyZnlkQWFZaW9IOGg3VnZyTE5tOVJSQ0U4R0c4a21JRVFZYnRrRDkzVmp2QQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 14:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RTby1ZOEJRNUljY1R6c2N0enkzclYyNWF0SV9Qb0xXS2JRcWFzcXBnc2FJNlBIb3FzRWVCNFNiQ0p5NXlCM2pGbFhzZ044X3lPaEZUOXlucGpwOGpmUzB0NWdGdFpSeDFaTXYyYmFjeXJnOEx1aGQtNDJhZTlhZFRJVzdzcHFBZXZ4U2luRHJWY2dUd25hVGxKZ2Z6cW1DU3ZEY3I1cy1qZFU?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 19:34:39 GMT",
       "isLive": true
     }
   ]
