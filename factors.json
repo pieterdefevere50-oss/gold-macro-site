@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:22:36.652Z",
+  "generatedAt": "2026-10-22T00:27:24.588Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,15 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Evening digest: SpaceX surges, oil steady, gold falls",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RTby1ZOEJRNUljY1R6c2N0enkzclYyNWF0SV9Qb0xXS2JRcWFzcXBnc2FJNlBIb3FzRWVCNFNiQ0p5NXlCM2pGbFhzZ044X3lPaEZUOXlucGpwOGpmUzB0NWdGdFpSeDFaTXYyYmFjeXJnOEx1aGQtNDJhZTlhZFRJVzdzcHFBZXZ4U2luRHJWY2dUd25hVGxKZ2Z6cW1DU3ZEY3I1cy1qZFU?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:34:39 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
