@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:31:25.907Z",
+  "generatedAt": "2026-10-22T12:31:02.063Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,5 +38,24 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": []
+  "live": [
+    {
+      "title": "Gold price today, Thursday, October 22, 2026: No real upward price momentum for gold",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblR2dkpHMTlGOGZzekxGUzFEeFVSUENkZFYzNDBtM0xxbmdwMnFBTDRJdHlma2VjV1VTTUJDRmJHY1VXa2EtcFkxdHNqaF96ODJaLVg1b1VFNFNKSlVyM3FZNE9pa0M5M2otZVN3d2pYXzlfZkJpTVA2RVlhc3dGZ2JTTmJRaHhlNk5zRmtYWHJCbzNlNERGMkVIc2hsRGdQM1RIZjdKSDduMWtkai1TY1dtcUhndVdqUVk5UGlvOFhrdUUyY255Ti1ESktZMlpYS1pqanVleVprVEhpTkVfSUJuVkZtLWdlc0ZhSA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 10:35:01 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold slips below $4,100 as Middle East energy shock reinforces hawkish Fed outlook",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZWNzctNWgwbFUyT2V3dWljbGRTT1ZxOEQ2NVVraFg2TEF0aExxRGtmR0hneHc1VThHaHJlcWlvNkJnVTNlR1Z4Z29zcmFscHZrX1NKMzkwNTA2ZC1JclJvTTQ0T2Q5RTN0MUJPejVYc3ppU2M0aE82Wm5EcVkzenU2NzU3S19ORGFjUG53bXVRcFJQZFFDa1phZEpLREtHTlpnVi1SaDlkVEl4VFJLRG0zT1hQMG9odFRwLTNvOGFJdw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 11:04:42 GMT",
+      "isLive": true
+    }
+  ]
 }
