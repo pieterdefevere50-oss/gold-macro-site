@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:25:30.122Z",
+  "generatedAt": "2026-10-23T08:28:21.983Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold price today, Thursday, October 22, 2026: No real upward price momentum for gold",
-      "sentiment": "bull",
+      "title": "Gold Falls as Oil Rallies, Testing Which Miners Can Absorb the Hit",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblR2dkpHMTlGOGZzekxGUzFEeFVSUENkZFYzNDBtM0xxbmdwMnFBTDRJdHlma2VjV1VTTUJDRmJHY1VXa2EtcFkxdHNqaF96ODJaLVg1b1VFNFNKSlVyM3FZNE9pa0M5M2otZVN3d2pYXzlfZkJpTVA2RVlhc3dGZ2JTTmJRaHhlNk5zRmtYWHJCbzNlNERGMkVIc2hsRGdQM1RIZjdKSDduMWtkai1TY1dtcUhndVdqUVk5UGlvOFhrdUUyY255Ti1ESktZMlpYS1pqanVleVprVEhpTkVfSUJuVkZtLWdlc0ZhSA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 10:35:01 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlczTVlCLWhGR1ppdjJfR3BPeVVpOWNHWE1tVHhBZ0RMUEtzY2RVTDY5clZlYWxvU1ZqaUlVbjAyWTlIbEtScmIwT29JQkRiUDcxZFBvRGNOUnBSa0twbExUTXNhNVBHMHhGaUE4Yk8wcmlLS0pGTXdDT1J5TmtGMHVZaXZQOGRGY25ucE5LTG5VblJWZnp6endtb3g5VVI2WUE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 07:48:18 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next?",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 06:16:00 GMT",
       "isLive": true
     }
   ]
