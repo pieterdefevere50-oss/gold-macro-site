@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T04:28:38.613Z",
+  "generatedAt": "2026-10-26T08:38:07.710Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,24 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Rising yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 15:15:15 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Falls Below $4,000 as Market Focuses on Fed and September PCE After Consecutive Adjustments",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzk3VUVkRDQwNHBUVEdySGJaQXRFVDFMRUFJQmJKTm83WUNDbkVlMlRLZGpOWF9tUnVJRVpVUjEzSWxiYW11T1BWWlBDRlBvR3owRzJtN0ktWlNfSFhpOGI0emltQUZHWFAxNUgtM1RxZE5VbUpSWnVUclBfZDdrMkRoR0Vkb3Jrd25EVVJwM0VxZDdQekx4QjQ3MDlOejZYYmtFZk9NZmQyd1dMZUgwSE9VeG5mUnA4eUw5Z2xuNlZLcFpi?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 01:49:46 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
