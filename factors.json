@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:42:11.322Z",
+  "generatedAt": "2026-10-29T14:58:35.270Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,30 @@
   ],
   "live": [
     {
-      "title": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
-      "sentiment": "bull",
+      "title": "Gold slides 1% as Fed hike bets linger ahead of U.S. inflation data",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU1kN1huemNIcHpJQUVNR1FGaXlwVXU1Rm53bld3Nnl6TGhoTjJ5Z09tRmx1TkhBM0hEaVl0NDJMRS0xdk5BNFd1dFBfVTdoam91OWpsci1XUUxTc004MGpmTWYyVEw5NUtySFo4V1RhNW5sN1lwelpKVzQzVTZRcmVvSUhCZEs2ZDBqUF9BZXJ6U3JOak16b2RKSWg0S0XSAaQBQVVfeXFMTUsweUFjR1V3UjZTNEJpN1MtWFB6bDc5bW9rRzJ3eHd0TzAxT2gybF9Cb1kwUVpHSi1QeDFJZTVjTWp3clRjNjBBT0ZXY1ZvUXBJRWxfUjlHYnJBdS0xZnVNNnBTUXdMZEZQeElYNVFHZjdxUE1Qb0FTclNUd085NGNDX3ZsNkpUZUdYeU0wMXQ1NzNGMHFBZ2o3MTVYb28xX2xtZjQ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 04:33:42 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzFrQTVVSEVjZTloUV9YZGo2a09PdUZwblU3RkhwRGR4M1ZtcDB4WUhHSnRJZ2lFMFZRdm5oR1NlaFlVMWlYQlBTTFhLNGJyTFJTM3IzS1lBbUF6d1F4RWRBSjBJWjlvMG9zSG5mR2ZQeG5CSUNYMVpoaElfbmJWckJncDNmTkhzaV9sR3ZVZUswa0hSQzJPUTNEcTVIa21ReEdZ0gGoAUFVX3lxTE5pN0NzSHh5TjRZbjNoZ2wwR1J1bDdCOWdBaENFVGQ1U0NjeTBLTWlKY21pa2twRXdQTjhmQW84bUJ1amVWWGg3elJ5T2dINEdQZHkwcmxVb1ZZMHcxajE4ZHlIU3hrRDR6d1RURmVwY0RCQllidHc4RkxyUFFkSDBjVm9wWmdsTGRmMUlxNi1nMGphcEdBSl9mN1RSRmhjdWdRcmdIOVlNSg?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:49:03 GMT",
       "isLive": true
     },
     {
-      "title": "Gold price edges lower ahead of Fed rate decision, Warsh comments",
-      "sentiment": "bull",
+      "title": "Gold Price Forecast: Dow Ratio Warns of More Downside as Yields Rise",
+      "sentiment": "neutral",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMi05RU1Bcmd0cGFIX1BUOFMzUUFXNkY0Sl9icTg1MnZ3TG14WThBXzlEOHFJSG1Dcl9IV05hMlVHbll2NXFXdWJ0N1ZPNzBIY3N6UWdmZUNTaWR0RDF4c3VGTVo0c1NNRWhFeDNuNkgxOTJISmJDQWhsVmc0QzBuaV90RWIzdEFWaktNMG5HZ1ltX29PeHVB?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 18:29:58 GMT",
+      "text": "Headline contains mixed signals — both \"war\" (typically bullish) and \"yields rise\" (typically bearish) language appear.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmlXb2NPU2NsUlNBSmR4dnBLN3BXeXFXX2JFempMa1dPSXNSZDJONTFvUld0cm5BVTFMZWRFNm93b3A2el9GREtiUWtpUkFldTJjN2JHeFZSOGJxNU1xc1YwU0lvTkU0MmtEdVlrQlJ6ZnlVd2tuSUdvX2l6UnFNS3JPanVmOE93WUxjc1lvSnYtMjFLZExXbllsclE3aEhIcVgxQ0FrWGxuc3VNaldGajkzTVRsTXotYVZLNmkwajhqS0Rj?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 10:10:03 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold drops 1% as US PCE inflation strengthens case for December Fed rate hike",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNOVzAtejhZWTl2QlFRUG1kYkN5SzI3ZDZsZU1MS1dveGFKaW9vczFvZHF2REFGQ0JHX3hranA0eXJWR3paN1NQU21uZ3hXRV9HSDd2dVFfLTZnaWk5RUI2QkxSWVlvMXNla2luVXM5TTdIVHVhRklSbFNrMmFNRDJ0RkhRVGsyVDZaWGtPTEc3dWlzNmMyemR4MlBacFNqeGhXcTlxMmZZdw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 13:04:37 GMT",
       "isLive": true
     },
     {
@@ -67,12 +76,21 @@
       "isLive": true
     },
     {
-      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "title": "US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:30:00 GMT",
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUGtuTzBhbHdvS1FhN3JpaVV6TnZHMHhEYVpzekFwV0ZPd3NGR3MtRjdpMl9PQjBBbVNBdHdoRkZjTTNYZTBtYUZkbnZHRUQ4SWNTTlVWVDN0SmxKd3REVlNyRllUeUlOM2ZHalNsOUhrcURLT3BVTHoyVXVUVnNHY1pzWTVITEthR2NveDdscFlJZmNjODlwVXdYSWZOV2JXUDg1RW04MjhFb0pnR2xBeV8wQzFWNmdfQ0l3MHhqUllPdlRpbVh6YW9sV21wVENXVjNQbi1XVU1GU1M5dkNlNFFibEk1MHdRTVRsdy1qUXdRQkpfQkdibHJleWMzQllFUTdyUTMtQW02M2FHc2fSAZMCQVVfeXFMTjExVXFobkRfd0lNU1RfN29pR1ZUSExBQllXN1FNbEl6NjdXaDlDZ0JwZklJVnMxNWxYWTlqc3A3MFBGMGE4YzJXYnk0V1l2WVl2N0VpTkVjWEVONTFRQkFwZjdpWmRkSmZIZGw3NHNMakp0d0E4dEY4c3ZkaHZ5MWVHTFR5SVV1TW9mUGQ4WWJGYTg2Rk41cHhGRDUzNGJRUENVRHRRbGYtS2NHUVg4dEpLT0RqWTdYSXRwQjNvcXpRUTZzNWU3ekwxVkNTRVh0dmsxejNqVVhYWjFvVmQyd0E1RnNVU21LZFdOVzNOblF2eElIbmgxdGdlNXRXcFY0MkxWUGxmS2JHMEhrM3QyOW1sTVk?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 09:31:51 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU1kN1huemNIcHpJQUVNR1FGaXlwVXU1Rm53bld3Nnl6TGhoTjJ5Z09tRmx1TkhBM0hEaVl0NDJMRS0xdk5BNFd1dFBfVTdoam91OWpsci1XUUxTc004MGpmTWYyVEw5NUtySFo4V1RhNW5sN1lwelpKVzQzVTZRcmVvSUhCZEs2ZDBqUF9BZXJ6U3JOak16b2RKSWg0S0XSAaQBQVVfeXFMTUsweUFjR1V3UjZTNEJpN1MtWFB6bDc5bW9rRzJ3eHd0TzAxT2gybF9Cb1kwUVpHSi1QeDFJZTVjTWp3clRjNjBBT0ZXY1ZvUXBJRWxfUjlHYnJBdS0xZnVNNnBTUXdMZEZQeElYNVFHZjdxUE1Qb0FTclNUd085NGNDX3ZsNkpUZUdYeU0wMXQ1NzNGMHFBZ2o3MTVYb28xX2xtZjQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 04:33:42 GMT",
       "isLive": true
     }
   ]
