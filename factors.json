@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:48:57.321Z",
+  "generatedAt": "2026-10-29T04:42:11.322Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,12 @@
   ],
   "live": [
     {
-      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
-      "sentiment": "bear",
+      "title": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
+      "sentiment": "bull",
       "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:30:00 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYU1kN1huemNIcHpJQUVNR1FGaXlwVXU1Rm53bld3Nnl6TGhoTjJ5Z09tRmx1TkhBM0hEaVl0NDJMRS0xdk5BNFd1dFBfVTdoam91OWpsci1XUUxTc004MGpmTWYyVEw5NUtySFo4V1RhNW5sN1lwelpKVzQzVTZRcmVvSUhCZEs2ZDBqUF9BZXJ6U3JOak16b2RKSWg0S0XSAaQBQVVfeXFMTUsweUFjR1V3UjZTNEJpN1MtWFB6bDc5bW9rRzJ3eHd0TzAxT2gybF9Cb1kwUVpHSi1QeDFJZTVjTWp3clRjNjBBT0ZXY1ZvUXBJRWxfUjlHYnJBdS0xZnVNNnBTUXdMZEZQeElYNVFHZjdxUE1Qb0FTclNUd085NGNDX3ZsNkpUZUdYeU0wMXQ1NzNGMHFBZ2o3MTVYb28xX2xtZjQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 04:33:42 GMT",
       "isLive": true
     },
     {
@@ -54,16 +54,25 @@
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMi05RU1Bcmd0cGFIX1BUOFMzUUFXNkY0Sl9icTg1MnZ3TG14WThBXzlEOHFJSG1Dcl9IV05hMlVHbll2NXFXdWJ0N1ZPNzBIY3N6UWdmZUNTaWR0RDF4c3VGTVo0c1NNRWhFeDNuNkgxOTJISmJDQWhsVmc0QzBuaV90RWIzdEFWaktNMG5HZ1ltX29PeHVB?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 18:29:53 GMT",
+      "pubDate": "Wed, 28 Oct 2026 18:29:58 GMT",
       "isLive": true
     },
     {
-      "title": "Gold slips toward $4,000 as Oil above $100 clouds Fed rate outlook",
+      "title": "Gold slips on higher oil; markets assess Warsh comments after Fed holds rates steady",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3JTdmtHTC16RXZVLWJaNGhBNXhmZDdhcEdhZ01RcTF1RTNsM0JfcURhY3VGWlR5UThMN0I1S0JNRWNtenF3dk1qSE1LYWM2MC10cm9xa1l6TDVyWFR5bG5kTHVHbHc1VXNWRmlIMnpRcnhLU2tydHhBcjhLbVpaelpHRVB2aHlCTXFFX09rQ3lnQXUwQ1lZR1VTS0p4VlJNaTVqaHhyLTRkeDQ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 17:32:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 06:16:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 13:30:00 GMT",
       "isLive": true
     }
   ]
