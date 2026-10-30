@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T04:41:24.603Z",
+  "generatedAt": "2026-10-30T14:52:32.476Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,39 @@
   ],
   "live": [
     {
-      "title": "Gold slides as higher U.S. inflation reinforces Fed tightening bets",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzFrQTVVSEVjZTloUV9YZGo2a09PdUZwblU3RkhwRGR4M1ZtcDB4WUhHSnRJZ2lFMFZRdm5oR1NlaFlVMWlYQlBTTFhLNGJyTFJTM3IzS1lBbUF6d1F4RWRBSjBJWjlvMG9zSG5mR2ZQeG5CSUNYMVpoaElfbmJWckJncDNmTkhzaV9sR3ZVZUswa0hSQzJPUTNEcTVIa21ReEdZ0gGoAUFVX3lxTE5pN0NzSHh5TjRZbjNoZ2wwR1J1bDdCOWdBaENFVGQ1U0NjeTBLTWlKY21pa2twRXdQTjhmQW84bUJ1amVWWGg3elJ5T2dINEdQZHkwcmxVb1ZZMHcxajE4ZHlIU3hrRDR6d1RURmVwY0RCQllidHc4RkxyUFFkSDBjVm9wWmdsTGRmMUlxNi1nMGphcEdBSl9mN1RSRmhjdWdRcmdIOVlNSg?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 04:49:03 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold Price Forecast: XAU/USD falls below $4,000 as strong US data strengthen case for Fed rate hike",
       "sentiment": "bear",
       "impact": 2,
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVpsdmwzb2toRUctX3ZYeWV3bU82aXo3VjltX1M0c1ZZenVGUkI4a1l5RW0yUEp5R2h1RWlvMEtlZ1RvVV92WmxLMVpsU3ZfUHVNcTlDUlhtenY1ZldFdmhzTzc0V0owRWRUWGNBUlRlaHlLbGtrbW52d29QYS1uV2c1MWxZVEVWUWJITmNfYlJXRXdYT2VQaFJFYUh6aWZtNTI4SjF0S3hDLWNESnFUWFl5TXdWeTdRelkxUGIxckFkQ3c3M0xjYmlwZlRmN2pWdmZkVmxyc1h4OE9o?oc=5",
       "pubDate": "Fri, 30 Oct 2026 04:25:31 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Drops Below $4,000 as US Inflation and Interest Rate Concerns Weigh on Precious Metals",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFM1eFNJRjBhakpQWnEwY2U1Z1B3UzBFMVVlM0xGZWpaUFZpR2FneTVOR0NXM04taUx3TWFTR3JPcE1CRkM0N0lFTk5nNFkxdWNFTFA2Zjh5aEpIS05YeWFXV1BxalpvaGY0cHVzVHQ0YmVXYzktYXhCcHU1OFJfbk5DUlNaUURKcnBOZGRuOFdYZUk5WHgw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:04:43 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Today: Gold Falls 2.19% on October 30, 2026",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTltcHpuVjFIU3JCUEpqMERmdWZMRk0ycDBaM2N2S0tmVXNRaWctclJDM2wxWExnZFRHMlUtb3F2d0I2TFIxNWFnN2xWUkJCLUxkTHV6TW12cC1BTlJNaVo3RDg3M0o5NTRoQkR3X1owRm93WkNWTkJQeG9UYXNONE83MWNqcVhpWFRwOU16aVh5TTg5YlV6VjRtLXM0OC01MjBIY0dWblBSdw?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 12:20:15 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Forecast – Gold Drops Below $4000",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLW5pd2k2TmpFR0loeVBYcGt2Z0RsbnI1cEJIanhLYlo2OFdJNUlmeUlkMGI1aDRZeDZoLVBiczlKSVdoc1JjRnFLQmFuY1dZbWNFSWxpTzdRX1BiMEdoem4xX3NOdTJhREtmSnBGRl9fSzliLV9zMTNoZWdhUDBrMWlRdWJOakZXSEtjZEJOeElvT3BMaU5j?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 13:32:02 GMT",
       "isLive": true
     }
   ]
