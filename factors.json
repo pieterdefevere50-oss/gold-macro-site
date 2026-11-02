@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T04:46:24.400Z",
+  "generatedAt": "2026-11-02T17:53:44.095Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,5 +38,24 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": []
+  "live": [
+    {
+      "title": "Gold Rallies Nearly $75 After 11% Pre-Midterm Plunge; Silver Rebounds",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes upward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDdqTXpvMUhqdGpTWlpfSzNLMkg1UEVULWFLM05LOWRmaVFvb1pJdUdBZlpVZ3doaHBLQlJrR01sM0pIQmtIajkyVTR3WGZ2SmlkRUhULVZ4bkVHVEFBMTJkX0QzU0diRmNzVFhUZlMzVTNXSUQ5MC1uVmV5NWJ3U05vN2JTYVpRUmVMUU5VMWg?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 15:04:46 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold price today: Two analysts see more downside near $3,900, but one warns an overbought US Dollar could spark a rebound",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcF9yX1l2TnQ0V00yMWJ2S00zX0pxeWtkVWFVNEdQM3hCcDItZmhNSUt3VzhBZURHTEdWZDl3enFISWhvd05LdDhqc1d6ZGxaLXMwRmFoZno2QkU0NWZTRFdfVGp6ZFprSGlzOHNjTm9WZkdrREhJZGpiQXBESktWYW90dTAtaVJBWndDdFZtTUd1TklqV3pSdHZ0UEFkcE54anhFT0hKNVgyVlRUa0hZNjNjV0pRRkFlTUh2TlAyajBsRm5Rbm95Qzg0U1hWNWVHbTRDdWUxQkZzTU5rSXJIOUVMUjR6SVZuV0RPcVBWbVdhdjRPbWtzaA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 14:29:50 GMT",
+      "isLive": true
+    }
+  ]
 }
