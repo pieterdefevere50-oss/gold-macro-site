@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:15:43.200Z",
+  "generatedAt": "2026-11-02T04:46:24.400Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,42 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Why Is Gold Going Down? Gold Falls 27% From Its Record",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SmdKTzFiWjhtTFlFMzUyd3dSWXdua08wcGItOTVEOTVTM1NYUGRQdjF1WGhncFVYMHcweDVfVkd0aFJqMVRHSVJBakhsOUNOa25zTFJlekFmTkhuREU2M3ExRFdtSUxQOERUeG5rdHE4eE1i?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 00:04:58 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Falls. Bonds Rise. Why? for BITSTAMP:BTCUSD by BlueNyraFx",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVUxZZVJtVEs3MF9ncXZobHR1TGV4bGZUOFJCS0JyYUs3eldFZDY1TW1GenRjNnRrWkczTHdQb3drakc3TExOWGM2bF9YTHB5dVVpanl2MllSZWR3UHdKT3kzZ1RhZGU2UGp0Z1NBMC1vY1pocUllZnhyNU02bF9Fb1FB?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 08:37:41 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXAteVc1blkzdXBVYV80T2hILVRfYUp1TXJzZGhSYmZ2LWRJTVlVWVdWbHpYaXdlaW1LclZhV3dyYTcya0R5TXF3MEo3RnJ6N0R6UVl0SURCNTNkVGRyTnlYc2VsSHhOMWhqRmFKN2tqOWNja2p2aHh5TmxrVEs2V0c0dTVvLUJfcWJ0UDZBUk9ZZnJzY0k5cF8tYklETDVmSjh5X2tHNUZfbFotcEFNb0FsbEE?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 21:20:39 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold falls below $3,900, silver tumbles as Wall Street selloff triggers liquidation - Kitco PM Report",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVQ2dVhTWU5IZkxWWGhHRHA5enE3MnhwdW02ZW00S1Q3dDh4aV9MTWh1QkpxT0Vkc2NIY3pOSkZCYkdRYnphTUJLWjhUYUlRTkVmbVlOSHZieDN2QU80VEhiWW1OellEeG1hZnE4bVNqalJJR0otYzRXcVpSdlMyc2tVcWF0bW9jc0djSmRrSEQzQTZ3VmN4VDZpcVhoa3pTemxsMlVhQkdmTkQ4c3ZlZg?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 21:06:50 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
