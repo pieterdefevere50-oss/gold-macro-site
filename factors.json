@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T19:10:01.032Z",
+  "generatedAt": "2026-11-04T00:25:26.739Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,5 +38,15 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": []
+  "live": [
+    {
+      "title": "Gold Slides to a One-Year Low as Rally Unwinds",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlNiZGg5RmlGdUpvUXZSNlFVSXhyVTJLc08yOUVPTVhacmdBMUhaMDNXRVVDVE5EMm5XSE9STk1tMUdUMjhfb09PVzdYWjI4MmhEd1BDcEc3RFp4MHAzQ1RFcWIteEpqYm54TmxTZVZFYjdpamQ4Y2hHYjJiVmNZTEh3?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 23:33:22 GMT",
+      "isLive": true
+    }
+  ]
 }
