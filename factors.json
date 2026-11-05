@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:55:23.554Z",
+  "generatedAt": "2026-11-05T19:37:16.708Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold hits 2-week high as dollar, oil, yields fall after US midterms",
+      "title": "Gold hits 2-week high as dollar, oil, yields fall after U.S. midterms",
       "sentiment": "bull",
       "impact": 2,
       "text": "Falling yields lower the opportunity cost of holding gold versus interest-bearing bonds.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 03:46:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0lNbWJsNm9BQkZObjdwTWNBbTQwd093S1c1dV9PTjZmNEQxVmtwNTZwQUROOXJTRFJndXVzVUJJMGloUGdsTjhfN3ctWTdrWFFvME1RbU10OU9MRjFsVElxd0djQTh6YzVKRVhURjA2U1haNEE3ZlVsSXo0VUxNS2F6cnNvQ2RVc0psX3dLck1iNklSLTdRLVE1ZWNSZ2x3MVHSAacBQVVfeXFMTUQta0lIa2tjODZlMzc5Y1hWN3Jpb2YzUVByM3dTNWFsNkdSVmVMT0tVck96cER4VW1jckVUX3VKTG9kVllod0VnTy1Vcy13MVoydnU3NWp1aVBEZjVSY3BVQTNOMUw0V0JmX3p0ZWFSVUNGZ3FZWC1ydW9uakQ4S3dUYTVCUkRPZ2pmWWJISzRZbmxRWEI1UXR1LVZtWVVTNVd2R0U5ZjQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 05:03:03 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Climbs Above $4100 As Rebound Continues",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes upward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnItV2EzVnQxaE5tSEloQjNHcVMzNTl0UWFFZlhfaFAzS2RVNGhhcThyQTBEei0xR2tVNi03emlwOW16SjdyTFYxS3BHSFZmZU1OZUNTbl9hQUtZNVVIN1MweUx2blhsQ0tZa1ljRVZ3ZVFmc0s2dktfQldxT2F6UDZQYjd2cWU5VFRhdkhtdzUyMzE2TDZtRTNoektYUk1QM3QteG5ETWstWS1OZktfU05OQnY5ck1ZSUdxOHpYUkZSRm9EMWFCMzJYZjA?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:31:12 GMT",
       "isLive": true
     },
     {
