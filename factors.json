@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:57:46.700Z",
+  "generatedAt": "2026-11-06T23:58:07.895Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,21 +49,12 @@
       "isLive": true
     },
     {
-      "title": "Gold drops 1% as strong US payrolls boost dollar, yields",
+      "title": "Gold drops as strong US payrolls boost dollar, yields",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
       "pubDate": "Fri, 06 Nov 2026 03:46:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold falls as robust US NFP boosts Dollar, but remains on track for weekly gains",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2tBcWJzVzVBRWR3OHU5RU1sb1FxRG9oOWZfTVliR3VndTRjR1ExMVRJdjdjaXpxdnNzNk9oYnk0UDZRdW04NUV3UG1PMS1OZUt6bUtkZDQtVUNTSF9TLUxrRGktTFZFbWZCSE9obzNrbDBNeUNoT09oakZWZ01fNTUzaG9RMi1lcldIVHNxNzZLNW9lNEJUUldtYXd6dERTNnlMRy1JTE1felJCR3R4Sg?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:29:44 GMT",
       "isLive": true
     },
     {
@@ -76,12 +67,12 @@
       "isLive": true
     },
     {
-      "title": "Gold Price Today: One analyst sees 20% more upside, two warn the post-election bounce may not last",
-      "sentiment": "bull",
+      "title": "Gold falls as robust US NFP boosts Dollar, but remains on track for weekly gains",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcXBKcjVPQi1QMWw3R0FpVDZpa0YxWUdUaDFqWS1WeTg3UEU4ODhkMDZxSGZ0UG0tNkJUamhndmNHZ2I3SUtVaVg5SjdEb00wNW1tTzREb1NVVGlROUNvaWFXTm5TQURxd09xVUFvTk9ISEdZemZvblI1X2EtUzRacW84LUVxSWFMMDBMeERYdEd0emVKZ2hhT1JVaDRkbmFKRi1La0dPZGFmdnBwaG9YTDZZc2R6bHgyU25NeExkbnIxVjN2RWlZaDAtaTB4T0pFd1Fudlk0WDFHdw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 12:33:12 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2tBcWJzVzVBRWR3OHU5RU1sb1FxRG9oOWZfTVliR3VndTRjR1ExMVRJdjdjaXpxdnNzNk9oYnk0UDZRdW04NUV3UG1PMS1OZUt6bUtkZDQtVUNTSF9TLUxrRGktTFZFbWZCSE9obzNrbDBNeUNoT09oakZWZ01fNTUzaG9RMi1lcldIVHNxNzZLNW9lNEJUUldtYXd6dERTNnlMRy1JTE1felJCR3R4Sg?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:29:44 GMT",
       "isLive": true
     }
   ]
