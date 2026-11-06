@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:51:36.145Z",
+  "generatedAt": "2026-11-06T18:57:46.700Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,7 +40,16 @@
   ],
   "live": [
     {
-      "title": "Gold drops, on track for best week in over 2 months before US payrolls",
+      "title": "Goldman Sachs lowered its gold price forecast as Fed turns hawkish",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbzZUZEJtOTV0ZktIQmdLbU11eTNyLWRSNGJnbXF3RHJ0aXRtV21ZX010Ri1wTEJfMjNwWkM3cDZfNjNRVG5ISUVpSXpyOHJWdjEwcmx4SW56ekEzaS1KQjFFODA3QlJuVWVDTEZhSWoxWG9MZmRZ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 13:18:40 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold drops 1% as strong US payrolls boost dollar, yields",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
@@ -49,39 +58,30 @@
       "isLive": true
     },
     {
+      "title": "Gold falls as robust US NFP boosts Dollar, but remains on track for weekly gains",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2tBcWJzVzVBRWR3OHU5RU1sb1FxRG9oOWZfTVliR3VndTRjR1ExMVRJdjdjaXpxdnNzNk9oYnk0UDZRdW04NUV3UG1PMS1OZUt6bUtkZDQtVUNTSF9TLUxrRGktTFZFbWZCSE9obzNrbDBNeUNoT09oakZWZ01fNTUzaG9RMi1lcldIVHNxNzZLNW9lNEJUUldtYXd6dERTNnlMRy1JTE1felJCR3R4Sg?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:29:44 GMT",
+      "isLive": true
+    },
+    {
       "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
       "sentiment": "bear",
       "impact": 2,
       "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:01:54 GMT",
+      "pubDate": "Fri, 06 Nov 2026 08:36:57 GMT",
       "isLive": true
     },
     {
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGs5eDJTX3NNQTE0WFZBRHc1QnlMQlBJVGZWV20yZmkyaFZwM3A0dGw5aXJlWmFORXMzeUJweWI5ZjJYUUZHOWVMbk1pM0JXSE1qSTF4VEFSNndkaWRxSGthR0d1YWQ4WXdBU0JiVkVlR2pLYkh2cnN4MHc2enVFYzJWUzZYRFpsNGZtNk5CcjNpRzFDaXF4Zm1tdHhaVlZiMFJIMkIyQkxOa3dGQzNWWU9QYnVycUMzeEdqWDFpMFQ1Tjh3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 05:32:22 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Goldman Sachs Cuts Gold Price Target: Sees $4,150 by End-2026, Fed Rate Hikes the Key Variable",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aZ0N5OFZ5NTdWV0dkaGRSMDZRZTBTZFFySW9MUG1oTkl3ZUpwUWhOUGNHcG1GQlNzYjRycXVoc3dBdGJaTXdqWVF2cXQ0ajJLRF9ZOU5xQS1PVDgwX0luUEpiRUpkUlFBSWhnYXFSdEJqUE1QRGc?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 06:35:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
+      "title": "Gold Price Today: One analyst sees 20% more upside, two warn the post-election bounce may not last",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2hCVEUtYUlkeUhwcEhsUWtRZGgzRkVtZVdjT0twdjh4RUFPTlhqaHBZTGY4U2VZeWI3NTRvYzVOVDJNR3Q2SmlQOHlxY0p6NXhlS291VjF6QThIWlg3NVFJbGhFd3FoNXFlSHJRbVNJMEFQN1pCVGotS2kyRjdSa0pJQWI5OFhZZmJGU080N09aeHpDOUhCRUdPa3pSSmN5dXpRQmNQeFZvclF6cG5DZzFDcXByU1RD?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 20:10:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcXBKcjVPQi1QMWw3R0FpVDZpa0YxWUdUaDFqWS1WeTg3UEU4ODhkMDZxSGZ0UG0tNkJUamhndmNHZ2I3SUtVaVg5SjdEb00wNW1tTzREb1NVVGlROUNvaWFXTm5TQURxd09xVUFvTk9ISEdZemZvblI1X2EtUzRacW84LUVxSWFMMDBMeERYdEd0emVKZ2hhT1JVaDRkbmFKRi1La0dPZGFmdnBwaG9YTDZZc2R6bHgyU25NeExkbnIxVjN2RWlZaDAtaTB4T0pFd1Fudlk0WDFHdw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 12:33:12 GMT",
       "isLive": true
     }
   ]
