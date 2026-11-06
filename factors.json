@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:49:25.457Z",
+  "generatedAt": "2026-11-06T11:51:36.145Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,39 +40,48 @@
   ],
   "live": [
     {
+      "title": "Gold drops, on track for best week in over 2 months before US payrolls",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:46:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:01:54 GMT",
+      "isLive": true
+    },
+    {
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGs5eDJTX3NNQTE0WFZBRHc1QnlMQlBJVGZWV20yZmkyaFZwM3A0dGw5aXJlWmFORXMzeUJweWI5ZjJYUUZHOWVMbk1pM0JXSE1qSTF4VEFSNndkaWRxSGthR0d1YWQ4WXdBU0JiVkVlR2pLYkh2cnN4MHc2enVFYzJWUzZYRFpsNGZtNk5CcjNpRzFDaXF4Zm1tdHhaVlZiMFJIMkIyQkxOa3dGQzNWWU9QYnVycUMzeEdqWDFpMFQ1Tjh3?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 05:32:22 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Goldman Sachs Cuts Gold Price Target: Sees $4,150 by End-2026, Fed Rate Hikes the Key Variable",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aZ0N5OFZ5NTdWV0dkaGRSMDZRZTBTZFFySW9MUG1oTkl3ZUpwUWhOUGNHcG1GQlNzYjRycXVoc3dBdGJaTXdqWVF2cXQ0ajJLRF9ZOU5xQS1PVDgwX0luUEpiRUpkUlFBSWhnYXFSdEJqUE1QRGc?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 06:35:00 GMT",
+      "isLive": true
+    },
+    {
       "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
       "sentiment": "bull",
       "impact": 2,
       "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2hCVEUtYUlkeUhwcEhsUWtRZGgzRkVtZVdjT0twdjh4RUFPTlhqaHBZTGY4U2VZeWI3NTRvYzVOVDJNR3Q2SmlQOHlxY0p6NXhlS291VjF6QThIWlg3NVFJbGhFd3FoNXFlSHJRbVNJMEFQN1pCVGotS2kyRjdSa0pJQWI5OFhZZmJGU080N09aeHpDOUhCRUdPa3pSSmN5dXpRQmNQeFZvclF6cG5DZzFDcXByU1RD?oc=5",
       "pubDate": "Thu, 05 Nov 2026 20:10:51 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Goldman Sachs lowers gold price forecasts on hawkish Fed outlook",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVnJRdHpSOG9OUTk4dnJhM1NWT0JJLTZsUTRmREZaanNPVUxEdHVBVUtjT2NmelJiNzRnT3ZjN0xDYWNFNVgxa05kNkllbWdWbkFLeEg1QVA0dmtGbWVFcUFFTG1Hal9rWG10R1owU0c3c1RVMWFrZWozWng3ZVAxY1lqaXd5Z2ZrOGhOOU11V2p5Tm9iQmxoWm5GM3hzT1ctanBVZ3Rla0ttOHVLdE5XRi1Tb1NHZWFta0VnTUdObnpDRDE3Rm9GYk50SFIybU0?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:12:40 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Goldman Sachs trims gold forecasts as Fed stays hawkish",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3dKVlItQkhBYUg5Wnh5SHJJSjdnSUZMODB6SUlwZXg5OFpPMDR4cXVabV9EU0lUcXAtVkNQYTN2NGktMnhPZzNEREZuZjk1ZWVubmctUEdVYWJmc3doUnJ3TGUya09Yekw0emhreE5mRTJxVTdtU3pvVGVNMUlGc3l4R3Z6QmdsMmU3WFFxVm5EeHpxN05HUDhlalpDLWtLeTRjZjZ3?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:31:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Climbs Above $4100 As Rebound Continues",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Describes upward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnItV2EzVnQxaE5tSEloQjNHcVMzNTl0UWFFZlhfaFAzS2RVNGhhcThyQTBEei0xR2tVNi03emlwOW16SjdyTFYxS3BHSFZmZU1OZUNTbl9hQUtZNVVIN1MweUx2blhsQ0tZa1ljRVZ3ZVFmc0s2dktfQldxT2F6UDZQYjd2cWU5VFRhdkhtdzUyMzE2TDZtRTNoektYUk1QM3QteG5ETWstWS1OZktfU05OQnY5ck1ZSUdxOHpYUkZSRm9EMWFCMzJYZjA?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 00:33:15 GMT",
       "isLive": true
     }
   ]
