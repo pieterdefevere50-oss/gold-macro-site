@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T19:55:41.422Z",
+  "generatedAt": "2026-11-07T23:29:05.430Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,6 +40,15 @@
   ],
   "live": [
     {
+      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold drops as strong US payrolls boost dollar, yields",
       "sentiment": "bear",
       "impact": 2,
@@ -64,24 +73,6 @@
       "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
       "pubDate": "Fri, 06 Nov 2026 08:36:57 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
-      "isLive": true
-    },
-    {
-      "title": "World Bank sees gold holding above $4,000 through 2028, but warns silver faces steeper correction",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2hCVEUtYUlkeUhwcEhsUWtRZGgzRkVtZVdjT0twdjh4RUFPTlhqaHBZTGY4U2VZeWI3NTRvYzVOVDJNR3Q2SmlQOHlxY0p6NXhlS291VjF6QThIWlg3NVFJbGhFd3FoNXFlSHJRbVNJMEFQN1pCVGotS2kyRjdSa0pJQWI5OFhZZmJGU080N09aeHpDOUhCRUdPa3pSSmN5dXpRQmNQeFZvclF6cG5DZzFDcXByU1RD?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 20:10:51 GMT",
       "isLive": true
     }
   ]
