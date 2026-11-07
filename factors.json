@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:44:53.225Z",
+  "generatedAt": "2026-11-07T14:42:50.759Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,15 +40,6 @@
   ],
   "live": [
     {
-      "title": "Goldman Sachs lowered its gold price forecast as Fed turns hawkish",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbzZUZEJtOTV0ZktIQmdLbU11eTNyLWRSNGJnbXF3RHJ0aXRtV21ZX010Ri1wTEJfMjNwWkM3cDZfNjNRVG5ISUVpSXpyOHJWdjEwcmx4SW56ekEzaS1KQjFFODA3QlJuVWVDTEZhSWoxWG9MZmRZ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 13:18:40 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold drops as strong US payrolls boost dollar, yields",
       "sentiment": "bear",
       "impact": 2,
@@ -58,21 +49,21 @@
       "isLive": true
     },
     {
+      "title": "Goldman Sachs lowered its gold price forecast as Fed turns hawkish",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbzZUZEJtOTV0ZktIQmdLbU11eTNyLWRSNGJnbXF3RHJ0aXRtV21ZX010Ri1wTEJfMjNwWkM3cDZfNjNRVG5ISUVpSXpyOHJWdjEwcmx4SW56ekEzaS1KQjFFODA3QlJuVWVDTEZhSWoxWG9MZmRZ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 13:18:40 GMT",
+      "isLive": true
+    },
+    {
       "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
       "sentiment": "bear",
       "impact": 2,
       "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
       "pubDate": "Fri, 06 Nov 2026 08:36:57 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold falls as robust US NFP boosts Dollar, but remains on track for weekly gains",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2tBcWJzVzVBRWR3OHU5RU1sb1FxRG9oOWZfTVliR3VndTRjR1ExMVRJdjdjaXpxdnNzNk9oYnk0UDZRdW04NUV3UG1PMS1OZUt6bUtkZDQtVUNTSF9TLUxrRGktTFZFbWZCSE9obzNrbDBNeUNoT09oakZWZ01fNTUzaG9RMi1lcldIVHNxNzZLNW9lNEJUUldtYXd6dERTNnlMRy1JTE1felJCR3R4Sg?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:29:44 GMT",
       "isLive": true
     }
   ]
