@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T14:48:50.320Z",
+  "generatedAt": "2026-11-08T20:14:07.645Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,30 @@
   ],
   "live": [
     {
-      "title": "Gold drops as strong US payrolls boost dollar, yields",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 14:50:45 GMT",
-      "isLive": true
-    },
-    {
       "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
       "sentiment": "bear",
       "impact": 2,
       "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
       "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Why gold prices are plunging amid the Iran war, despite being a supposedly safe asset - ABC News",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtMTnVJTkNTczRrcS1UbEJXamtuaUZfTTR4c1hxUnMyNHBITXgxZkJQd0p3MURWUDNQMEU1TVNuM3BKS0VIamNtejRFMmhXMTlvZzhIYU9vLUVtTnNVNUZaeERKVlREN1FKX1dtSGJRWGRQYXhrLXJhR2g5MGt0Q2JPTFkyb0ZPQmtaeGhVTEE1MVg0eDJIQVE5UTQtcTZlcTNJ0gGoAUFVX3lxTE82UTlMeHVybWpIMy0tM2dHNFJXNklZTTR0cjlaSTUyZmNMTTgzNDVRTG5nVTQwbXhxZEI4TUhwRFBaOHk5LUM4cF9IZ05hUFV2TTFWeWphbEcxUzRsRGhJRllxSFg2VUg3TE9HU1Bja2dmUDBmY0pvZTRwY3dtZUg5b0V4M3NwaGlMbV9jbm9EZllBN2w2VlhsTGZ6UGIzRkF1RUczd0VVag?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 17:33:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Drops Over 1% on Higher Oil Prices; US Payrolls Data in Focus - ASHARQ AL",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDM2SDVFR1NxS2VSbF9qUmVMTTRfUlNKcDd1S0g2Yl82SUkydDhGS0w0ejF6bkdfaVppZFdtdzhTWmdIVGo1TDB2Mmgyc01DSEx0bFBJalFZSTI5LUh5ZUdwWFhlRjVOeVY2aEoyZHlRZVdYZlF3bEpENXdERk1ZLS1XWU95QTM1UUQtVUZFQzh2cWZOMzJsUjFqa0wxcE85MGhnZw?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 08:08:58 GMT",
       "isLive": true
     }
   ]
