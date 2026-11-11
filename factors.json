@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:40:17.058Z",
+  "generatedAt": "2026-11-11T04:58:41.014Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -49,30 +49,12 @@
       "isLive": true
     },
     {
-      "title": "Gold Price Today: Gold Falls 2.79% on November 10, 2026",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVpRYTFITEJ1ak1lN1FFUS1LeUh0eVZjTE1Gb3B5dHFubWk4UndhM2t3bkUzc2swLUc0dHlMalk1YUczNnRhOGI5NEp6RW92cXhOeTYwOThTc2ZmdnpiMUJwTHZ6X1AySUd5REtrUU9MTk9RZHYtaTZRRWpUYlVWYTZNS1JnQmtLYUFWWHQwaFdIZ2NPbUdYSV9za21yclVfOThNdXRPQ3NOeHM?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 17:14:00 GMT",
-      "isLive": true
-    },
-    {
       "title": "China buys gold for two straight years as central bank demand remains a key pillar of support",
       "sentiment": "bull",
       "impact": 2,
       "text": "Reflects central bank or institutional buying of gold, reinforcing demand.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnMwUHdaakNobncwZG8wWE41M290UThlMmQxQV84UkRuNThLMDdwcU9JWWVKTVUtN0hiWS1nNDNqYUVocXdYZVdjSlpUN0FjamdpRGtFSmNIbk9ITGl3Q0Q4LTJ0WC1BTW03cDBIaTY5MldITlJDVVlsdVZQZkpqelJfSnpSeF9MWGRnOTZXWndsdmFIVjc5bEVNZ28zWThaaXI4VVVuVWxGbmtVOUZfZ24tdmlZX1RUbTA0?oc=5",
       "pubDate": "Tue, 10 Nov 2026 16:50:34 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Describes upward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 03:01:00 GMT",
       "isLive": true
     }
   ]
