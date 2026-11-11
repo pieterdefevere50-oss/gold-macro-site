@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T15:54:23.649Z",
+  "generatedAt": "2026-11-11T22:30:02.648Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,30 @@
   ],
   "live": [
     {
-      "title": "Gold gains after steep drop, but hawkish central bank signals weigh",
+      "title": "Gold falls as hot inflation figures, higher dollar weigh",
       "sentiment": "bear",
       "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
       "pubDate": "Wed, 11 Nov 2026 03:39:00 GMT",
       "isLive": true
     },
     {
-      "title": "Gold gains after steep drop, but hawkish central bank signals weigh",
+      "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
       "sentiment": "bear",
       "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS1uTUxBaFRYanlOdkJLcG5HMlZHX1pnNlFOZmJBMnlsV1lWczJNY0JNUmM0dUFFTkhlTUVBdkFSYXZzZG9ZeGpvTEE4eHhoOENyM3ZLTW1jQnQwa2s2NVMxeFU1TVFUcHlKdEtDNWl4X3dQenlIMGp2ZnRaTDhiX0xuZjFiVEVocFNkX21CSE9lUlc5cHdIam9B?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 03:49:00 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 03:31:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops As Dollar Tests Yearly Highs",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZktBMEVrTlY5Q1ZUV3JtTDJBX3BUWjE2c0tJdGQxZ0JGc3BKb1dtc1F4Y1UySEotNWZ5ak5uUjdDUHlQRVN0bUJvLVAtVGw2dFFkWkkxUE9NWG1MNXVFaU12Rk8xam1XWHVrSXI3d3BWMC1NNDE5LWNoUWQ2T2lvMHRYeFRMTGthaldnVGQzZTR6UkdFQ21TUFl4bnNwUHN4aC1lbmdROFRjXzNVdlBrcWFmZ1hwMTNFUTVuM2tKWDlwRUlvYnZB?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 21:42:51 GMT",
       "isLive": true
     },
     {
@@ -67,12 +76,21 @@
       "isLive": true
     },
     {
-      "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
+      "title": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTg3THhtUnZVa1FYX29ZaFN4RlBkbHFWbVk1S2JwWGl3N2tlRFg3TjFPV3ktU29fMGZvRzZ1bkZsZzYyOU0zT3FXTTFLeEJGNDlGN0hYdDBNMENPaDNYY0ZDOWk3dUtJaGJkX3NkN3FBdU94Q1Vhb05BUElqMTF0TDB6cEFYaG1KWnNBOW1GTGdFRzg2dThhR0JTODNUancwNDdKdk5Telc1TzV3dkh1OVIzaVg?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 20:46:42 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls below $4,000 as dollar surges, Fed hike bets rise - Kitco PM Report",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 03:31:00 GMT",
+      "text": "A sharply stronger dollar tends to weigh heavily on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQkRUZVFwS0pNb3NBQjg1aUNMcjQ5Y0pVU0NLUjU4M3pJLXh5WFYtd3ZFMXhzM2I2Y3RDd25WeXhvaWY4ZHh1TzhrRVJIRzRFT2JJRWE3Tkc2MkVTOFNSZnUzQTVTMFltZXl1cVZRSXdmR0h4ekJUdEhHYjNGTmpnbU5ZTnhyZzlJVGxlc3F2NUhCa3pxd1UtRnd1Yk1UblE2Y05TdmNOR0xMbjhyQkhLZ0hCUFJwYUE?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 22:00:14 GMT",
       "isLive": true
     }
   ]
