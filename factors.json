@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:30:02.648Z",
+  "generatedAt": "2026-11-12T06:01:39.742Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,6 +40,24 @@
   ],
   "live": [
     {
+      "title": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTg3THhtUnZVa1FYX29ZaFN4RlBkbHFWbVk1S2JwWGl3N2tlRFg3TjFPV3ktU29fMGZvRzZ1bkZsZzYyOU0zT3FXTTFLeEJGNDlGN0hYdDBNMENPaDNYY0ZDOWk3dUtJaGJkX3NkN3FBdU94Q1Vhb05BUElqMTF0TDB6cEFYaG1KWnNBOW1GTGdFRzg2dThhR0JTODNUancwNDdKdk5Telc1TzV3dkh1OVIzaVg?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 20:46:42 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls to over one-week low on firm dollar, Fed rate hike bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 03:40:00 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold falls as hot inflation figures, higher dollar weigh",
       "sentiment": "bear",
       "impact": 2,
@@ -49,39 +67,12 @@
       "isLive": true
     },
     {
-      "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 03:31:00 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops As Dollar Tests Yearly Highs",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZktBMEVrTlY5Q1ZUV3JtTDJBX3BUWjE2c0tJdGQxZ0JGc3BKb1dtc1F4Y1UySEotNWZ5ak5uUjdDUHlQRVN0bUJvLVAtVGw2dFFkWkkxUE9NWG1MNXVFaU12Rk8xam1XWHVrSXI3d3BWMC1NNDE5LWNoUWQ2T2lvMHRYeFRMTGthaldnVGQzZTR6UkdFQ21TUFl4bnNwUHN4aC1lbmdROFRjXzNVdlBrcWFmZ1hwMTNFUTVuM2tKWDlwRUlvYnZB?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 21:42:51 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbE9pY2xWMlFnbjZTNnNOU04tbE1fZzUzQ2xfS3JaUUZ3ZnM4bFpGLUM1QXJ1UEVSOVlzc3ctUUtkYVowR01lQTNEUExDMzlNTU53bnVYN0ZLTTB5ZXpzVE9rcDM3ME9ncTNYM3hoa21UY0trOG9IWHlOVzhHOFNONGtYOHF3WjZ2RXF4S0k5eDZpUEZWVU1IX1V5dGNzQQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 10:13:49 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTg3THhtUnZVa1FYX29ZaFN4RlBkbHFWbVk1S2JwWGl3N2tlRFg3TjFPV3ktU29fMGZvRzZ1bkZsZzYyOU0zT3FXTTFLeEJGNDlGN0hYdDBNMENPaDNYY0ZDOWk3dUtJaGJkX3NkN3FBdU94Q1Vhb05BUElqMTF0TDB6cEFYaG1KWnNBOW1GTGdFRzg2dThhR0JTODNUancwNDdKdk5Telc1TzV3dkh1OVIzaVg?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 20:46:42 GMT",
+      "pubDate": "Thu, 12 Nov 2026 02:10:00 GMT",
       "isLive": true
     },
     {
