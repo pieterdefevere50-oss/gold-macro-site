@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T16:37:10.488Z",
+  "generatedAt": "2026-11-13T00:55:01.420Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold drops 3% to over one-year low as fading Middle East peace hopes fan inflation fears",
+      "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears",
       "sentiment": "bear",
       "impact": 2,
       "text": "Describes downward price momentum in gold itself.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09mRGRCVmlxTnVTdDR2Y0ktNjVkZE1xUHhyTnZWUGZvbFZFS2hsTFk1SkVfNE82SVZlMTFXbUFtckZMaDIwbzA5RlgxWUxKbE5ZMGhrRkl1UWFrVG9ibW9mdWlGM0NYRTVlQnZramhHSTVadmtEaFhWMDRFY1dYVWRPX1RzNm9YNURTVUVzeGo2aEo4UzZReXRCVlQ0amhjVGFWTU1BVFVQR1k?oc=5",
       "pubDate": "Thu, 12 Nov 2026 03:40:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Price Today: Gold Falls 2.61% on November 12, 2026",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVFNWWxOenpGNGROY3UtV1hINXZqWnBFcjZ5VDNGbHNHWVY1RFZlN1Z6dXlQRTZYR3p6SDNydExYaEJ6LV9lUV9yUG5aZU1xSXlmcVRlS2tjYXhuMGRZaVc5VmN1bU9wZmJZTlRibFdDMG5wckpSaWJibERRRDZpdnozY003RWswVXFvNTNNV3ZveURoWHYyaTBNNy15cTF6SFJSMk15ck9oa3c?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 21:58:00 GMT",
       "isLive": true
     },
     {
@@ -58,21 +67,12 @@
       "isLive": true
     },
     {
-      "title": "Gold prices today, Thursday, November 12, 2026: Prices open back under $4,000 as rate hikes crystallize",
+      "title": "Gold Slumps 3% Below $3,900: What Is Causing the Continued Decline in Gold Prices?",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaGNsWGVsOHlZMFBseHRvVXJkM3hNNGgzLUItTldRTklrODhxSDRTZ1VWVU5vakc2VDhDdW1mZENabWMtRG5VSWZ1S2RZRDhmeS14WTgtYXZGSWp1aDNESlN6RVlfWmdaVlRycF9XNjlBSkJkVDVEbUlTbGJHM2ZhVE1YVVE4ZDJJaF9DN2RiTi1fTXIybkhNbm15eFBPem45bDBPeFhQWldQUmFZNGoyTmNvSmZodUR1UzJvcUFnRGNYN013R1BzeHJkY19TLTcyVzhkaTU5OG4wZ3FRbVdCZ3R0bE9pNS1LVDZLNUt1NUNZYWNuTWNXRmJQczJudEloY3pv?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 12:19:13 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Price Today: Gold Falls 2.66% on November 12, 2026",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVFNWWxOenpGNGROY3UtV1hINXZqWnBFcjZ5VDNGbHNHWVY1RFZlN1Z6dXlQRTZYR3p6SDNydExYaEJ6LV9lUV9yUG5aZU1xSXlmcVRlS2tjYXhuMGRZaVc5VmN1bU9wZmJZTlRibFdDMG5wckpSaWJibERRRDZpdnozY003RWswVXFvNTNNV3ZveURoWHYyaTBNNy15cTF6SFJSMk15ck9oa3c?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:30:15 GMT",
+      "text": "Describes a sharp downward move in gold's price.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUxMamcxTS1KSFRiUXduM1FwQ3dCUDFJcEE2RGNfbGJmc2dqbXk1YVA3UGQ0eWxIQWlMYm5HWjNRSE1uMW82WjVZQXByZkNRUVhOOVVwNjJPejJILXVOYVhNZDlVd0pGc0tzMjFkdTY4X1E4OHZWbHE3dTJqY2ZrLWoyYnRPR3dlTERDX3Zjd2NsaWV0VVpjcUFNVGpPV1FxUHhTVlRmNUQyYlIzNFYxQ1lvMG04SzJrQmdNUnducVZlbGh1di1YSWhtLUJZUQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 15:43:18 GMT",
       "isLive": true
     },
     {
@@ -85,12 +85,21 @@
       "isLive": true
     },
     {
-      "title": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
-      "sentiment": "bull",
+      "title": "Gold prices today, Thursday, November 12, 2026: Prices open back under $4,000 as rate hikes crystallize",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTg3THhtUnZVa1FYX29ZaFN4RlBkbHFWbVk1S2JwWGl3N2tlRFg3TjFPV3ktU29fMGZvRzZ1bkZsZzYyOU0zT3FXTTFLeEJGNDlGN0hYdDBNMENPaDNYY0ZDOWk3dUtJaGJkX3NkN3FBdU94Q1Vhb05BUElqMTF0TDB6cEFYaG1KWnNBOW1GTGdFRzg2dThhR0JTODNUancwNDdKdk5Telc1TzV3dkh1OVIzaVg?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 20:46:42 GMT",
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaGNsWGVsOHlZMFBseHRvVXJkM3hNNGgzLUItTldRTklrODhxSDRTZ1VWVU5vakc2VDhDdW1mZENabWMtRG5VSWZ1S2RZRDhmeS14WTgtYXZGSWp1aDNESlN6RVlfWmdaVlRycF9XNjlBSkJkVDVEbUlTbGJHM2ZhVE1YVVE4ZDJJaF9DN2RiTi1fTXIybkhNbm15eFBPem45bDBPeFhQWldQUmFZNGoyTmNvSmZodUR1UzJvcUFnRGNYN013R1BzeHJkY19TLTcyVzhkaTU5OG4wZ3FRbVdCZ3R0bE9pNS1LVDZLNUt1NUNZYWNuTWNXRmJQczJudEloY3pv?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:19:13 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Prices Plunge as Fed Rate Hike Fears Intensify",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTRENmZzY2lCOFZlaTdSWjItU3VUQXFTMTBlZk1vRUJlcGFNLTQxb0lwM1dkYlMzd2lqSUluYkFVU3FZWVltWFBMZnl3c3BZdmcxSndPZm1KU0s1ZlBqaDYyQmwwcGZSaTNOX0U1YUJ4WUJOTzhUb2FhT2h6NWpqSE1tdTVYckNrR2tsN3diakU1emxRZ3FZUEtKSHNXUQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 19:44:27 GMT",
       "isLive": true
     }
   ]
