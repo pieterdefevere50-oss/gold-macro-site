@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:09:37.634Z",
+  "generatedAt": "2026-11-15T15:25:00.942Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -39,6 +39,15 @@
     }
   ],
   "live": [
+    {
+      "title": "Gold Retreats from Record Highs: Bulls Pause as Fed Decision and Dollar Strength Loom",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVNKM1lIM3hMYnN2SXRxcGpLYUZxZmVPdVFHWFY1alFOX1RVMG05T3RZMjVrbE5NX0RCc25BcC1iYWlkSlRkMnRIZlh2d3Z4aXdIMVFVNzJ5ZUZjYVk3SWRvaXMxekdMdUhwSlhJc0NXcTV6d0d5bmpaa2hqd0hsamxoU2t1aGdjdndEWldzbDhyRmxTWjRfVnJHLXlFQXhVUzd4ZnFyMEZHOGY4VVJXenpR?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 12:56:28 GMT",
+      "isLive": true
+    },
     {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
       "sentiment": "bear",
