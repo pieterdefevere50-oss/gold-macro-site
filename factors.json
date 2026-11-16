@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:50:59.525Z",
+  "generatedAt": "2026-11-16T05:06:40.019Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,66 @@
   ],
   "live": [
     {
-      "title": "Gold Retreats from Record Highs: Bulls Pause as Fed Decision and Dollar Strength Loom",
+      "title": "Gold holds steady as investors await Warsh remarks for rate signals",
       "sentiment": "bull",
       "impact": 2,
-      "text": "Describes gold pushing to fresh highs — price momentum in its own right.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVNKM1lIM3hMYnN2SXRxcGpLYUZxZmVPdVFHWFY1alFOX1RVMG05T3RZMjVrbE5NX0RCc25BcC1iYWlkSlRkMnRIZlh2d3Z4aXdIMVFVNzJ5ZUZjYVk3SWRvaXMxekdMdUhwSlhJc0NXcTV6d0d5bmpaa2hqd0hsamxoU2t1aGdjdndEWldzbDhyRmxTWjRfVnJHLXlFQXhVUzd4ZnFyMEZHOGY4VVJXenpR?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 12:56:28 GMT",
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 01:25:00 GMT",
       "isLive": true
     },
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
+      "title": "Gold and Silver Price Forecast: Strong Dollar Puts Key Support at Risk",
       "sentiment": "bear",
       "impact": 2,
       "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDlXZ2k1X1dnTzA4WnZaSWh6NTV3c3lLUmhhcF93V1lSZ2xfTDRHZFVQZzgxajU3U2U3QWhDTnhvWFJBQ0YzQTdHb2hjTDh5VFZ3cFlMNWNmSUZ2MndEa3lFOUxET2Zfdk1yMnY4eGZHX2NCWHBlTzgxR2RjYUpJYTZ6TnIwTGFmUk1ZRUJqNVl0dDBWNEdfVldYclZ4Mlk5Mm5lekJfVkpteWVhVEZPY2QwaXpLOVdMSXRMNmlzMW1VQkFiQXJSQWJyTmUteWFDbXFV?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 02:07:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlFILUdjbC1JcGQwbGFHVk5MYXNiODczb2RNS0hRVDdTMEhZNkdGTmVxaVR4MUJPbnMzcTduUkpuWjJqUWIyUERSYnlFV1MxM3VaTDZteGN0MU5YZi10LTZSWVl2bktiT3FoeTE0VUQyX1lNdnhmR2tNRGRoQlVJdXZJLUIyWjRQTDFScU9qbGJoQlVRSWgxRnV6M3ZFaEE4VkIxOTd0NWdVb0ZWR3d6RVpKXzlWYlJxemFGaA?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 03:30:20 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold stays near YTD low as USD gains support from Fed rate hike bets and Middle East tensions",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjFWWUFUbjZYX3l3M0hZcEJIX3kwMHpqQWZqT2tDd0kxeXY0blFlWE1RNEZzQkgyR2JYRzlmNEJEQXp5c3VIeUhLZGNTQmJvNXpUZ2M2SGk0Zmx5NWNSRUNyZnVSWWE0WGExZ1BLenp4dzZLZTh0aUxSd2h1LXg2aTVKYkt4bzk2Q2hvSEUzblFKVHN4YkFSMDN4NV9RdXcxMmJsMWhTT1NmVVVZczV3aURsQVpjdXVQN2Z0RjVxd2lQU0dJN0JPZExWR1d5YVhNN3h2Vkx1YUNTQWJpaldLSnFTbFZBZw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 04:09:36 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Slides Below $3,900 as Hot Inflation Data Fuels Fed Rate Hike Bets",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0R2Rll3WnVlQXVqdUJMZGJ1WGxvQXZKMWgxZGR0YmpCM0xRd3dBYUJudmo5djlRbUhmUDJ4Z0FmV01icnB1LWlkakRmdHU3NkFiX2Q5MllkNHNkN2NkbEtNdW1YQ3ZMdDNrNnlwblR6WTZHZ2RqWGJBUURta094N040US1fVUVUeVN0RUxTV3g0MlVTYkdCVw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 02:12:17 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Silver Price Forecast: Why has XAG/USD hit yearly lows below $47.50 amid hawkish Fed sentiment?",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdFlQUGg5MjdNZGVYU1RyX0wwS0kwV085cjFQcEhjdWgzNmt1TVJVZW9oa2Fib0tnYTY0NkpKc042ZnlrUWJaVnQ2QlRNdGt1bTA0T0wtbEZUaU5mSzdHWFRLWDBzQV95TmF3R2RpNWlKa3ZNME9ULU1BRF92Sll3WWdTZE5VWk1UMFlQX1h2X1FXM2dGNjBjRzVMSzFnWlMyNkowN0JidGZkcU54S2VMU2hIVS01VjYyQXFUdWZIUE13NHlhMGk5Vm5rSzluQ2xUQWViNHZmSDNPVjhpSWNDX01hWWQwbzhh?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 04:09:36 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold hangs near YTD low as Fed rate hike bets and Middle East tensions support USD",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSUVwQV9lbWNEVnc1X0d5ZVZsbEdqdTN1SmVKQVBuVXp0dW9KNlZXaGZ1MmliUE4yVG5OZ3R5YkNhY24zR2drSjJoT0lucm93NTVtRHhhUHlEUVFLNkE0eUgzLTJXd2lFYU9sVU92Q21tS2Q4MVIwZVB5ZWg3REpody1OMnRNSGctZ1llOEdsWTNaZ1NfT3QxNnNjVFc0andWSWdWZEM5akhHM0FueU52MXcxZlpleU8tYmc2TE1GOHNrSGM?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 04:04:15 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold prices edge higher as traders await Warsh rate signals",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUF94NllPM0VqdzNIR05lRE9yVkNQS3JGM1ZmZjI1aVc3eHJqd0Z5dWJkeDJKMTNyT25xcjEyUUlpN1FlaTh4dVRiRXh4aHBQY29yTmcySDYwQ000R0JQb054eDFGN18wdnd6ZEx3dzg0Nk5mdWVCSXY2OENUTDlxU0FSSVRxc3BlXzZXYVdqYw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 01:41:21 GMT",
       "isLive": true
     }
   ]
