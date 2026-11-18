@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:22:06.799Z",
+  "generatedAt": "2026-11-18T06:13:10.058Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,6 +40,15 @@
   ],
   "live": [
     {
+      "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 03:10:00 GMT",
+      "isLive": true
+    },
+    {
       "title": "Will Gold Prices Rise After the Fed's Expected December Rate Hike?",
       "sentiment": "bear",
       "impact": 2,
@@ -54,7 +63,7 @@
       "impact": 2,
       "text": "Signals lower interest rates ahead, which reduces the opportunity cost of holding non-yielding gold — typically bullish.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 22:24:50 GMT",
+      "pubDate": "Tue, 17 Nov 2026 16:22:43 GMT",
       "isLive": true
     }
   ]
