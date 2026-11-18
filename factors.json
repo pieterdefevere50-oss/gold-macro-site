@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:13:10.058Z",
+  "generatedAt": "2026-11-18T16:58:26.119Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,12 +40,57 @@
   ],
   "live": [
     {
-      "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
+      "title": "Gold drops to 14-month low as hawkish Fed rhetoric boosts dollar, yields",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
       "pubDate": "Wed, 18 Nov 2026 03:10:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1PTzRTaDdGTFl0dDhWSVRRRTBjZmQtTWNZTGlCNnM0Q0YzM014dTkycjVOVWZiOS1nRWZQSUlmNkc1YUdBNUZoalEtSW9zMS1MX1Zod3lRRnltWjY0NVNCY3U5Vllld0g5cldYdkRCUVNaZlVLNnpQdnFVTFBzb2VIVV9fVVlNeG1YWnRhSlNubm9tTHhZ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 16:00:16 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold price extends downward move as stronger US dollar weighs on sentiment",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazA2c0pSeFJnWDFucVhvb21oUGdoTXZGS05FVEdCTV9zY3VwN2N5VzRqOUZ4eWtKeFBuNl9fYWt0Ykd5NTBNM0JVNUhjd3VxbS0zZGhrUDRuR0d1X0cwbklieHMzZEZUWE5Gdm1yU1FxTVluYXBDMXFvMzZJb0k0ZHNOcUx3anRtY0RIM29LeEg?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 09:07:27 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold slumps as Fed hike bets deepen bullion selloff",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes a sharp downward move in gold's price.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9IVnZLcFhYNmM5d3UyYzVXV19hTE5GYUxSOXYxNDNZbHZJRWtkcVZQQl9MTVQ5Tl96cmhYNTVJX3FMNG9pMVF6bUphTUxaRXBwV3dBcTZzclBZb0I2QXFKNl9LbFJHTHc0WVRYM3MyREFzT1VXZ0w4VXFJcjlUV1ZhWmloZk9MeUd5ZTJUbW9yT2RXeWtpY0pJdk5ROVhXRG83Qk5wZ2EtVlVwY2hEQ1Rza0J2bmFqckE?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 10:50:05 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold drops 2% to over one-year low as hawkish Fed signals boost dollar",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTXRXUlc4TVVGam9kXzJabE84a2tVS2g4dEUyUE9KbUhaNnVlU1VDaGdZX0RkZHJYaDhKdzVnVkdzVS1TOGF3RjlrVnBUOW5yUVpWa3p3dGR6XzNKZWp6R2c5VXdSR1BmQjJrUlFLZXNkWjNQS2lvcFQyX3RTWHJjQlFOX3dtRlhzSDU2Q01oZWtfVFpIbUF0X0V3WkZreTZGLVHSAacBQVVfeXFMT1BQel9WZ3VlTGtfVFBmR1V6OTRMWEhjQVVYejNzYUFZaWpGRU4xTUxVbjJmQnZSZHVmamI1VGVhekpQYkdIdEI1anpqLS1QM0lBM2x2eXMtbGVjSi1vYmN3em1tRjQ0ZVVyNFN5RVNJaFhGRG5rSlloT3FHOXZyQndBNEVzUTVMOWNDWDZpN3pHa3EtWkdMRWVRTGg1bUlRN0liMVkxNVE?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 03:21:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 10:26:01 GMT",
       "isLive": true
     },
     {
@@ -55,15 +100,6 @@
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWctLXJnSWdVYW5Tcjh2S09STExVTWFuMWM4NFdnTjRFQ216c00xOVBRVUFPQ25JTDRkb1Uzd19ua2pyRkpRZ3hYZ2xxellPVjFyMGJQYkN3dVBUUnByVEhITzJKM1U3c3ZtM2tFSEd4SlRlMjlvbDhTUWd3czd5cFJrOTFCTWlCUDFOVzNwdU4ySTgxX2RHYWlDYS1laXUtN3c?oc=5",
       "pubDate": "Tue, 17 Nov 2026 18:02:58 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold will reclaim $5,600/oz in 2028 as rate cuts bring Western investors back to precious metals – Goldman Sachs",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Signals lower interest rates ahead, which reduces the opportunity cost of holding non-yielding gold — typically bullish.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkFNSTNMZjM2c2VOOW1qQmlURFQ2UFNPaVBlLTd0Mm11WVN1c1ptLWxqMlF6MmVTU2ctZlUtWXBHMGsxenpqUGo3RlVDY1Bsd0JIRE8xNUNKV2x4anJJT0FqaFJOZ2VLVE85eXUxZzhJU0IzcEUxc1lfblkxTFA5VXVPVElrcDVTLV9FaDJETTBKc080ZGFYWFU3ZXhGaThoblBNN0xoLTBvWGNQNHR2dDJHWTk?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 16:22:43 GMT",
       "isLive": true
     }
   ]
