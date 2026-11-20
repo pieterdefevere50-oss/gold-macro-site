@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:55:19.973Z",
+  "generatedAt": "2026-11-20T05:59:21.722Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,48 +40,30 @@
   ],
   "live": [
     {
+      "title": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 20:50:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls below $3,650, silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlpVQ2czMnU5WnpBbm5Nc0VXMlRlMmU3ZnROX2UzXy1mTVlSSGZVcG01NWl6al94MzY3UFl4WGdyNEZocmdibEZtcm9lSU14NURNZnFQakJOaGoxQ0dSSVEyT0REU0pLc0VkZHAzQ1lWMkVPazhXRlZwQkVpNHFINS1GOWZ2dlBZTlMwNkZrdi12YzFOVnJEU0RRRDZqU2hsSFE0NnlDXy1pd1dmWTV1d3p6NVJxSzA?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 21:55:28 GMT",
+      "isLive": true
+    },
+    {
       "title": "Gold Price Forecast: Falling Stocks Fail to Lift Gold as Dollar Rises",
       "sentiment": "bear",
       "impact": 2,
       "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEJQLTNlVE9IRG0yM1pnRkZuZHZNTFlEYWJURXBTVjdxZ2RkMGpMVEFCTC16aTJHeGZlWWRzUTE3YWs3ZEVxVjR2Zjl4eHB1WmNGWEd4ZTlmRTVISnp3RVQ0NlNkZEVaaVFzVlJWcGpobzh6STREcGlpb1dvZGpRNTJBN0t0LWJjOWFoN0lqRmZMay02bTBJQ3dvT3FfbU42NnlxaHBqN3VqLUo3aHJ2N2QzS20zclFfcnpv?oc=5",
       "pubDate": "Thu, 19 Nov 2026 11:45:03 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Price Hits 14-Month Low as Fed Rate Hike Fears Strengthen US Dollar",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 20:45:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold-silver prices could see reversal rally after steep decline, Peter Spina warns",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Conflict-related headlines typically boost safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkV2NTYzUGRQNHNieUVrb1NxOV9GUkZNVjNoQmV3YVJidEF3VndaaV9XSVQwSDA3VnBnTlNaNFFUZUxsVmo3ZVVoc2NRcGljWEFPMzZYNjlOcTdBRHZhSFQ2QXZLbXB0MGRDcmZ4elVyQ3lRTmktV2JvR1Y5ZVhMaHd6M3hqTDQ3NkozS2dxTnVhVU0?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 21:40:10 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Strong dollar, tighter Fed policy bets leave gold to languish at 14-month low",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzSmhHOXhFdnBjdTJSSHQ5eENObngzd3UwdF9SOFNkV1NlSlRONkEzSzJXaGZZNTlxV3VlXzVNV2E5MV9hb3RKREJfS0VCM213X1VZTUpTRGNFanc2dHBHLVZzRk9qVkFIVlZwcVBtOUhaMHNmUkRBNGF30gF_QVVfeXFMTVdQV0Z4T1c2TlFoWi00UVZPbFJxdTVlVUwtcHRiX1NvWDQ3X09FcnhzbmRhdnBTRnVYUURCcDZaWEZJYWpSdzVfVGRoQ2NrNWFSdjNVMjREYUtGNGU5U1p5dWhONUVJVTJTYWhqSURFbGVSSGhTNVdaOUctczVUcw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 03:28:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold and Silver 'Can't Find a Floor' as Waller Calls for Fed Rate Hike",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1PTzRTaDdGTFl0dDhWSVRRRTBjZmQtTWNZTGlCNnM0Q0YzM014dTkycjVOVWZiOS1nRWZQSUlmNkc1YUdBNUZoalEtSW9zMS1MX1Zod3lRRnltWjY0NVNCY3U5Vllld0g5cldYdkRCUVNaZlVLNnpQdnFVTFBzb2VIVV9fVVlNeG1YWnRhSlNubm9tTHhZ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 16:05:19 GMT",
       "isLive": true
     }
   ]
