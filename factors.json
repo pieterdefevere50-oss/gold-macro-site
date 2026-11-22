@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:58:27.139Z",
+  "generatedAt": "2026-11-22T21:40:27.080Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,15 +38,5 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": [
-    {
-      "title": "Gold Price Today: Gold Falls 2.33% on November 20, 2026",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 21:04:00 GMT",
-      "isLive": true
-    }
-  ]
+  "live": []
 }
