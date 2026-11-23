@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:40:27.080Z",
+  "generatedAt": "2026-11-23T06:05:37.531Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -38,5 +38,51 @@
       "text": "Ongoing geopolitical stress supports a baseline safe-haven bid under gold. Acute escalations or de-escalations show up as live items below."
     }
   ],
-  "live": []
+  "live": [
+    {
+      "title": "Gold Price Forecast: XAU/USD Rebounds Above $3,600 as Yields Drop Below 5%",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Falling yields lower the opportunity cost of holding gold versus interest-bearing bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbld0dXkwWFp6VkFSalptZFpuZk4yV1M1SGtTbDZJejFKcFI2RU9faXUyclZGRExjaGFoUkw1cTVReGpTT3hYX0VDM1hpSnNMOTRhODZyZHgxTFNBTjVYa1lyU0xQMmp6bGQ2U3p6NllSdGR2ZVUyUGJ0aHluamtKQ1I1N0NZQkN1OU9oWkk5ekljeTZsOHJYOWhpc3NwY1cyR0lyTzZLTlU0a0dpajVBZTF2Zw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 05:59:44 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDhvMm04WkUtQWVUa3FkQXZMajJiS3YyM0xwUUtHcEszVV9oNXhwSW0yWmQ3LUcyb0pLc1M2dF83dFpBV2piaDJFUFlIcW5RMWpYRC14YnIzT0RsYldNTmVSU2tmSkxVanNPcmM4RFVWM3Nva1FXUjVRcFprX2RGTkM1dEtMVHc?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 00:28:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows;",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNQXRyNmdESnFwLWc2eTJLWmRtdXYwalNsTG1lQW9PQ1pvcThnb1VZNFU5Zm9qU3liSlN3RkhzWGdPb2FzRDRnbTJMWmpzbFNIVHJldzhXcGp1YU5RZUdzVUVUVXNCMzdRN3dKdDRacXVkaW5lUTU5eU1fT0hYYWNVNzNCX2ZQNFNEc2VqVkdFX20yT0V0S0pTUm9fa2oybXpCOVJpRTd1aDM4ZE1UTGpBZ1pNUG9BR1RxWW5ha0NMb01RYWY5cTJiTGhSRzhxeW90QndKU3ZreFViUjU5NDFmNEd2eDEtYTNtMkhEMGNfREdpSUhxcVFYbmpQbWR1YlFjc0RLT3B3U040UXpOczY2M2stOWRqVHNPc0dWclpzNzBXbVpPVGdiZE9XSjhxQjVmdzVrYW8yNldqTWtQUTZ6aTBjM0NGUlkxbzNpQ2pOcVYxa01saXA2cFNkWEhyLVdUTmFDQkxYVURLTFNsMGp5eXZwUHk5T3NkdDJWemFaclNNT21LM09scVBWRDA0bldfeW9vQjVSX3VUTUkzVVdWQm5ydDTSAaoDQVVfeXFMT0EyZmxJUHVrdmFnUzM2NEM3aHhrLW5RWGp1aUVJRWw4cmlhckk3eHd3RUM5ZmhfbktwS19PYVAwdFFkR3J3dkhBaE9yZ05HZnc4aE0xMC1Eb21RVlF0Vm4xNFV3QlVfaVZNaWZBR2pWMTlKbzM4RXpaVkU2VUhfYlhiNk80VVBUNlpFbW8waW1WbnNUZmdjTW1JYlk0ODlOanBiTFh1UUdDSDhxbVFnX29sNl92UUtxbXgzMmNnVndwT0xpNVBzeERpOEdWbHBUeENFd2QwNlZPX3V2OTJqQjNIQnVSV2dOUzc3cjIyRlljT2RWUWlsVWZ2TzNZVjE1c2ZZZzBDbVJiNll1ZEZFdlNWbFBUWG9nQlJadHJ2am13Ui1SVlV2d1hVUERpcFdlS3RzUlR1aTBvQlpSWGpXZW42Ry1wMlBRTnBTb0dWVzJhcTNETGttbkJYTFh3RzhoMVJlQ3laRmYwcDBJY0YzUXpTNmc4YXJMZWI3Z1d3WXZZSWFRNmVtQWdyVFNwLWFBVjhvbGJfVXVmTFhCWVNMSzRqclUyOVpoMFdB?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 02:35:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFYwUF85MUc1TlkxNWxTOW1DYjFSc2pJcGZIOTBMY19taHAwMjI3d3NJaEtOVUdTYU8wYkNodUpXeTFOMDFBZGtRZTExdDFvcUljZ05WQ2pTTE91R2hadDBvMmk3TjNDNjZvdDNDUk9GWlRCNXZFZzBnbzgzaEpmWWRFWDBGVk5tdy1jUDJGdDZhVWNVX2JGdGpTQUtJMUFnaTdYLUp2UXhqdUwydno2U2hJODkySExVYjJj?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 04:12:34 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold recovers above $3,550 as AI trade concern spurs safe-haven flows",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzdCMDZGNVJSUUFTYmstaU9ZeUU1RkNYbnc5M2VkOUlFcVRyUGRkSzBSNkw0MkdVT0xGWXU4M3U5Q3RSS0xtaDNkMU5OODNJa3I1dDc5d2NTOUJ1WHZKM1had3diQjVKSDhod2cxTVZsczc4b0ptaUNhaTIyRDllVk9pWjRzU1hZb0tyQVJZd19xVzZvWnlSVm1sMk1uR1FYNnA0Z1J6dUNQR2xST1owNQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 01:09:20 GMT",
+      "isLive": true
+    }
+  ]
 }
