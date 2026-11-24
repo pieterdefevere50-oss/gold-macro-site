@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:38:44.315Z",
+  "generatedAt": "2026-11-24T19:22:37.556Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold Rallies After $3500 Support Test but Can Bulls Re-Take Control?",
-      "sentiment": "bull",
+      "title": "Gold Price Today: Gold Falls 1.80% on November 24, 2026",
+      "sentiment": "bear",
       "impact": 2,
-      "text": "Describes upward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblFfMTdiZEJEWU8xaFB6MnRSblU2U2RvYVFhODJfcndYR1I3dWpTWU1rYUlDRlJVWU1qN2RmNFdEVzljSjBGeHI4UUx0YnlTeGt0VHA0VmRWRVpZWGRDWDhHSGxLUGhLSGg3WTNHT3dnSGI4eWZyaTN3clViVDZybkdTVHZmVTVVeWRrdEthR2R6alZmY0huSEtadW1wQjdoSUlDdlFTNFhydGxvdU1CY0syR3UzMmhXWDFQQ3RzUU5kNzQ?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 21:08:04 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGV2LUZjZ21fUTFpcmtid3FCeXkxS3V5WXNZZ3lBdE1ZZ1hlaXhsdVJMVWZhdVhYeEdTVDFaOVJ2R3RPVG9Lb0tHWGIwWFhvcVo2U2FvX3l2NFdIVEdnMjJkWG9EX0pGa25LR0l2cWlYZ3hqVFJpQ1F6MU11bTAweGtZU1pXaUVWeGlXUHMyWjF1b1VGazAwZ2M3OEp5NVZHbUww?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 17:09:00 GMT",
       "isLive": true
     },
     {
-      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE",
+      "title": "Gold struggles to extend rebound as Fed rate hike bets pressure silver - Kitco AM Report",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Dollar strength makes gold more expensive for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFYwUF85MUc1TlkxNWxTOW1DYjFSc2pJcGZIOTBMY19taHAwMjI3d3NJaEtOVUdTYU8wYkNodUpXeTFOMDFBZGtRZTExdDFvcUljZ05WQ2pTTE91R2hadDBvMmk3TjNDNjZvdDNDUk9GWlRCNXZFZzBnbzgzaEpmWWRFWDBGVk5tdy1jUDJGdDZhVWNVX2JGdGpTQUtJMUFnaTdYLUp2UXhqdUwydno2U2hJODkySExVYjJj?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 10:27:01 GMT",
+      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXZLTW5tSldXS2RtLTBnUXc0MFZ6QkRwYjNINlNUdThxVXNnMElPTE5ZUjE3T1hQdktPdUx2VTZPTjZFa0Y4NVlvamQxRGFJUWg0UEhVZnF5OTdtYkpYWURzSFpGNktoR2REcjJ5bkkteHEycG52Q0I2b3QtaDVOeFNKU0dFTmFGYnVLTmM3R21KVzlFeFJlejVXV3RfbTZSdHFiZFNGWFhUb01JZW1sU2xJdFpsa3Q4R1Br?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 13:45:25 GMT",
       "isLive": true
     }
   ]
