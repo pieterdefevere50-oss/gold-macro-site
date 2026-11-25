@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T03:23:35.380Z",
+  "generatedAt": "2026-11-25T13:56:32.727Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,48 +40,30 @@
   ],
   "live": [
     {
-      "title": "Gold Price Today: Gold Falls 1.80% on November 24, 2026",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGV2LUZjZ21fUTFpcmtid3FCeXkxS3V5WXNZZ3lBdE1ZZ1hlaXhsdVJMVWZhdVhYeEdTVDFaOVJ2R3RPVG9Lb0tHWGIwWFhvcVo2U2FvX3l2NFdIVEdnMjJkWG9EX0pGa25LR0l2cWlYZ3hqVFJpQ1F6MU11bTAweGtZU1pXaUVWeGlXUHMyWjF1b1VGazAwZ2M3OEp5NVZHbUww?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 17:09:00 GMT",
-      "isLive": true
-    },
-    {
-      "title": "Gold Falls To Near $3,550 Ahead Of US PCE Inflation Data - TalkMarkets",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "Describes downward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BSVRIdUpFV3RadXpXeDNHaU5WYS0xbHQ1c1FYUzYxa202dE9LX0NDUjB5bnRDX3ljOEdz?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 00:50:00 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
       "sentiment": "bear",
       "impact": 2,
       "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 21:04:34 GMT",
+      "pubDate": "Wed, 25 Nov 2026 10:36:17 GMT",
       "isLive": true
     },
     {
-      "title": "Gold Trading Alert: Gold Prices Plunge 2%! Fed’s Hawkish Stance Shatters Bullish Defenses; Focus on US PCE Data",
-      "sentiment": "bear",
+      "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom",
+      "sentiment": "bull",
       "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3h6NjJscnZwYUhkSEJPVFVweTl4R2thNHFURnE4dWtIWUZfSnhlTFZVMmZHRVdFYl9jSzBjWmJHNGlfdGp6emh0cGhRSjdHV2t1MzFrcDJxY0hKMmtIcEdmdS12WU05MHVZeFNIVE8xUjR2MWZmWUs4STEtODBIWF96RGg5X2RlQWw1al85cHctSm55Xy12dFM3UU9LUQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:40:20 GMT",
+      "text": "Trade-tension headlines often drive safe-haven flows into gold.",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb3dFeUN5SkJCNHNoN2FGTDYzdHNOcXJtS0NVRlBDWUJtOFNiMndWMXBHNHJ0SHFRbm1ORkdDTUtBVEQ4ZUJlRC1QeU5xZ2VPVHVNTVNMa3E2SHpheU5XSGY0YVJEcS1OSmpKM21nTGx4QS1zVUxKWHVNeFd4Wko5NUltTHNTQTU2am1tRjZkX3dGTUttQ09DcUJaYmloUXExakZRUnFCVURWUy1sbENFdXFubllDSXVvZVgtVk5WejVKQzVZY1Nvbkx5N2hxNzhhelVheFlVTUFzNkJhMV9ISm9sR3cxanB0RXhlRGVyNmswd09EOXZuVU5kR3hJVXV4Vk9Wal9ReWY4M29mTGR1bHdhbw?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 12:15:48 GMT",
       "isLive": true
     },
     {
-      "title": "Gold and Silver Slide to Key Support as Rate Hike Fears Build",
+      "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices",
       "sentiment": "bear",
       "impact": 2,
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGI4TERUNUZaNnJ2dFF2eUFpRkJwT3hCbDFJRnhCdHE4Qmk2X3EzRlZoTEN0RXdqdU1ReWk2NzhGX1lnYWFjZE9FeXJfVGZRUURqdjRESloyNjdDZUM1WlFDbkZmcXYtdTREbGxTaXVVdGVzOE9JQnVDQ0ZmamN1XzdFOVRIN041anpGaHpSa1AxSFZ0TEZEanhfWUs?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 00:59:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 09:58:15 GMT",
       "isLive": true
     }
   ]
