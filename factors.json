@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:56:32.727Z",
+  "generatedAt": "2026-11-26T00:00:13.118Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,15 +40,6 @@
   ],
   "live": [
     {
-      "title": "Gold price falls 2% on hawkish Fed bets, US inflation data in focus",
-      "sentiment": "bear",
-      "impact": 2,
-      "text": "A hawkish tone from policymakers points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFhNU3Z6SGt5cklJWjR2Y1RERTFHdGRmVERBVW9HOV83aGhCQ1NrU0V2Z2ZjWXVGNkNhNW9ldVMyMmNzWWFWODZkd252Tzc2LVZlR05vNktLNFdTNDdFSE1kMnNVSTRwMW9ENkJneXp2dGxNTUlra1JTSHR2TVFyem9wVmFlXzJlakRSeU5oWTNlY3dpdk9XMg?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 10:36:17 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom",
       "sentiment": "bull",
       "impact": 2,
@@ -58,12 +49,48 @@
       "isLive": true
     },
     {
-      "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices",
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
       "sentiment": "bear",
       "impact": 2,
-      "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 09:58:15 GMT",
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 05:08:05 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold falls to more than one-year low after data shows US inflation rose further",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV1p3ZkduX2FrdGJhMEMtbmNXNTgxN05HeDFsX2xxNDBkWXZQVkFWS3NzNFpITzZ2RnRyYXVZQ1k5bmthekYzdG9aSDVxcGZGS1RxMnNTTHNRRkQyQWFoWm1zNXVfd2hVQW96VHQ1ZFd4eU04cXNTRWk0cFJ4LS1PLUd1eUFmN3Y4ZjJQbXZpVkd3UQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 00:49:00 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Why Is Gold Falling Today? Gold Drops Below $3,500 for First Time Since 2025",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSV9fS1FPWHRva1lTSEtpRXZVUXV0WDBjLUFMN3ZVRHN3eVJSbzAyZlJwNnZDNms1azh1Qkl6TTJoV3Q4NlM1R3VsYnd6U0F0ODB2dzJFcmVJNlNDOEdkdEhyOGs1M3NRdHFaUHNGWXVHRWJEWThnWGVER2VEQkRjQVd5VWI4OEZ4QVVtU0R0MmlrdUFYVFBfRDN5MHhmekhKdm5CQ2NPdmEtdHBBcHc?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 13:15:29 GMT",
+      "isLive": true
+    },
+    {
+      "title": "PCE Inflation Rises to 3.8% as Stocks, Gold and Silver Weaken",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdmlzQWFUTkt4SXk0RTNNSzdudnc0X0stelRZTVhSZ0Y0SFRpLVJDU1h4TUJuOHpDWVYySUx0ZzhxWi1ITHFEdXpfRjk5c09UaXpySXhDT3ljT2g1SXU2RGtsb2pFblVJOVpFNENHNUFiekFURFpic0RmRUJCREltcUsxM1Jtcmp6eWpTVzJQaDBxM1pReDdtUFZ4UnBvQ1ZYUXlhcTlBaHlxd3BfV2lZ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 13:46:56 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Drops Below $3500 On Strong U.S. GDP Data",
+      "sentiment": "bear",
+      "impact": 2,
+      "text": "Describes downward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW1JY0VEcjNNajlwRkgyTUZJT3RSeHUzcUxEWFNOQUhrTFV1QWJLWXZhSDZjRDJmLVlvckJsbTBSZDF1cjgwejVyZ0lWVml1ZU9pSkV2VkI4OVl4YnpEbFoyZFhaelBTNnpjOG9Mc3JRd3ZXYzhiMnVzcTNtNkJzZ0VLQjFOOWxvV2xRdlE4bDVVQjVqUkMtcFhHVnlZb1F5aGhJX2I1T296MXFnLVB6aVNOUE5VWl9URlZtdEEtNXJ2eHRqc09BZ0syQW9LUQ?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:16:12 GMT",
       "isLive": true
     }
   ]
