@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:55:10.287Z",
+  "generatedAt": "2026-11-28T06:37:22.360Z",
   "evergreen": [
     {
       "title": "Fed Rate Path / Policy Stance",
@@ -40,21 +40,21 @@
   ],
   "live": [
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rallies Amid Rising Demand For Risk Assets",
-      "sentiment": "bull",
-      "impact": 2,
-      "text": "Describes upward price momentum in gold itself.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTWxreE16d2RCLU5zVXRCa0JhdllGTlBMUnc?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 22:04:22 GMT",
-      "isLive": true
-    },
-    {
       "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound",
       "sentiment": "bear",
       "impact": 2,
       "text": "Signals higher-for-longer interest rates, raising the opportunity cost of holding gold — typically bearish.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGwwTHhCdV9lNnpVQmhQem10ajFMallFR1lUTTJtNV9ibUZoaG5pZmhHZHZjN3BOOHpJQzItMl8wLUVEREh3YTh3SGE4WWpVYjJ4TWMxUmE2Mi11N0ZMcEQ2LUdFOU5XNU5mckVoNTMtZXJYSHloUlJwME9CR1dfRWRwbDk5eUxLeV82MWx1dldTemlTNUMwSEZ5ZllzVzA1NFMwSU5UamdUYlIyWUt0QnVxSEZXaEo0?oc=5",
       "pubDate": "Fri, 27 Nov 2026 14:47:34 GMT",
+      "isLive": true
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rallies Amid Rising Demand For Risk Assets",
+      "sentiment": "bull",
+      "impact": 2,
+      "text": "Describes upward price momentum in gold itself.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUZKcUhaa0M0aVNjTUk4b0ZHZHktRFVmT3g1NmMxSVhrQW1icnhZbnQxNWVMQ2JFeElWNGx4T256OC1CcEIySFdGNHk3MnZNVFVuYzRRN1M0VU0ybzFmdzJTaVZueXg4ajQ0b0FRWTA0TUE0eklhZTlndTlqZmQ3TjNCZTJfTmVaRnFFaXN0WkphVzZ0V1FyR0hpY2VaeF9MUkhZSVREYlktVENaVDctQlpzWjFmQTBvTWxreE16d2RCLU5zVXRCa0JhdllGTlBMUnc?oc=5",
+      "pubDate": "Sat, 28 Nov 2026 01:55:00 GMT",
       "isLive": true
     }
   ]
